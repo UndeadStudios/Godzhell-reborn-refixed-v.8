@@ -1,0 +1,122 @@
+[ACCOUNT]
+character-username = [INVALID]
+character-password = 41358556bdc729834e3f7d9175202977
+
+[CHARACTER]
+displayName = [INVALID]
+character-height = 0
+character-posx = 3256
+character-posy = 3287
+character-rights = 0
+run-energy = 100
+isRunning2 = false
+days = 0
+hours = 0
+minutes = 5
+seconds = 47.0
+character-ismember = 0
+character-isdonated = 0
+character-isjailed = 0
+character-messages = 0
+character-lastconnection = c-24-18-138-224.hsd1.wa.comcast.net
+character-uid = -620476256
+character-mac-address = 74-D4-35-5E-BB-2B
+character-uuid = d094477a-a4cc-4145-b532-1c49f76dcef6
+character-lastlogin = 20240627
+character-energy = 100
+character-gametime = 0
+character-gamecount = 547
+character-loyaltyRank = 0
+character-prestigeLevel = 0
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	25
+character-look = 3	29
+character-look = 4	35
+character-look = 5	39
+character-look = 6	44
+character-look = 7	14
+character-look = 8	7
+character-look = 9	8
+character-look = 10	9
+character-look = 11	5
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	99	1155
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	25000000
+character-item = 1	393	15000
+character-item = 2	6529	1
+character-item = 3	555	20000
+character-item = 4	556	20000
+character-item = 5	566	20000
+character-item = 6	557	20000
+character-item = 7	558	20000
+character-item = 8	561	20000
+character-item = 9	562	20000
+character-item = 10	563	20000
+character-item = 11	564	20000
+character-item = 12	567	20000
+character-item = 13	559	20000
+character-item = 14	1154	1
+character-item = 15	1116	1
+character-item = 16	1068	1
+character-item = 17	1192	1
+character-item = 18	1324	1
+
+[BANK]
+
+[BANK2]
+
+[BANK3]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

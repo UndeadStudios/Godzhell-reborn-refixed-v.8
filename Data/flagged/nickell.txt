@@ -1,0 +1,5 @@
+[FLAGGED]
+This account might contain duped items
+character-password = c761db6608cb84b4bb69b7a29946434e
+[EOF]
+

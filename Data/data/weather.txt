@@ -1,0 +1,5 @@
+[WEATHER]
+Weather = 3
+
+[EOF]
+
