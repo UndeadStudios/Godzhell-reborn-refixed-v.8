@@ -1,0 +1,68 @@
+if (magicID == 1152) { // Wind Strike
+ProjectileSpell(90, 95, 92, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 1, 566, 558, 0, 1, 1, 0);
+hitDiff = misc.random(2); //Damage
+}
+if (magicID == 1154) { // Water Strike
+ProjectileSpell(93, 94, 95, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 5, 566, 558, 555, 1, 1, 1);
+hitDiff = misc.random(4); //Damage
+}
+if (magicID == 1156) { // Earth Strike
+ProjectileSpell(96, 97, 98, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 8, 566, 558, 557, 1, 1, 2);
+hitDiff = misc.random(6); //Damage
+}
+if (magicID == 1158) { // Fire Strike
+ProjectileSpell(99, 100, 101, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 12, 566, 558, 554, 1, 1, 3);
+hitDiff = misc.random(9); //Damage
+}
+if (magicID == 1160) { // Wind bolt
+ProjectileSpell(117, 118, 119, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 19, 566, 558, 0, 2, 1, 0);
+hitDiff = misc.random(10); //Damage
+}
+if (magicID == 1163) { // Water bolt
+ProjectileSpell(120, 121, 122, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 21, 566, 558, 555, 2, 1, 2);
+hitDiff = misc.random(13); //Damage
+}
+if (magicID == 1166) { // Earth bolt
+ProjectileSpell(123, 124, 125, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 29, 566, 558, 557, 2, 1, 2);
+hitDiff = misc.random(15); //Damage
+}
+if (magicID == 1169) { // Fire bolt
+ProjectileSpell(126, 127, 128, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 35, 566, 558, 554, 3, 1, 4);
+hitDiff = misc.random(18); //Damage
+}
+if (magicID == 1172) { // Wind blast
+ProjectileSpell(132, 133, 134, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 40, 566, 560, 0, 3, 1, 0);
+hitDiff = misc.random(20); //Damage
+}
+if (magicID == 1175) { // Water blast
+ProjectileSpell(135, 136, 137, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 46, 566, 560, 555, 3, 1, 3);
+hitDiff = misc.random(22); //Damage
+}
+if (magicID == 1177) { // Earth blast
+ProjectileSpell(138, 139, 140, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 52, 566, 560, 557, 3, 1, 3);
+hitDiff = misc.random(24); //Damage
+}
+if (magicID == 1181) { // Fire blast
+ProjectileSpell(129, 130, 131, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 59, 566, 560, 554, 4, 1, 5);
+hitDiff = misc.random(27); //Damage
+}
+if (magicID == 1183) { // Wind wave
+ProjectileSpell(158, 159, 160, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 65, 566, 4278, 0, 5, 1, 0);
+hitDiff = misc.random(28); //Damage
+}
+if (magicID == 1185) { // Water wave
+ProjectileSpell(161, 162, 163, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 70, 566, 4278, 555, 5, 1, 7);
+hitDiff = misc.random(30); //Damage
+}
+if (magicID == 1188) { // Earth wave
+ProjectileSpell(164, 165, 166, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 75, 566, 4278, 557, 5, 1, 7);
+hitDiff = misc.random(32); //Damage
+}
+if (magicID == 1189) { // Fire wave
+ProjectileSpell(155, 156, 157, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 82, 566, 4278, 554, 5, 1, 7);
+hitDiff = misc.random(35); //Damage
+}
+if (magicID == 1539) { // Iban blast
+ProjectileSpell(87, 88, 89, absY, absX, offsetY, offsetX, npcIndex, EnemyY2, EnemyX2, 50, 0, 0, 0, 0, 0, 0);
+hitDiff = misc.random(25); //Damage
+}

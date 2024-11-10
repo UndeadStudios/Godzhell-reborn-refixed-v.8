@@ -1,0 +1,150 @@
+//mining!!!!
+                                                     //Mine copper
+				if ((objectID == 2090) || (objectID == 2091))
+				{
+					//actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "minecopper";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+					
+				}
+				//Mine Tin
+				if ((objectID == 2094) || (objectID == 2095))
+				{
+					//actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "minetin";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+					
+				}
+				//Mine Iron
+				if ((objectID == 2092) || (objectID == 2093))
+				{
+					///actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "mineiron";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+				
+				}
+				//Mine Silver
+				if ((objectID == 2100) || (objectID == 2101))
+				{
+					//actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "minesilver";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+					
+				}
+				//Mine Gold
+				if ((objectID == 2098) || (objectID == 2099))
+				{
+					//actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "minegold";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+				
+				}
+				//Mine Coal
+				if ((objectID == 2096) || (objectID == 2097))
+				{
+					//actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "minecoal";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+					
+				}
+				//Mine Mithril
+				if ((objectID == 2102) || (objectID == 2103))
+				{
+					//actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "minemithril";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+					
+				}
+				//Mine Adamant
+				if ((objectID == 2104) || (objectID == 2105))
+				{
+					//actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "mineadamant";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+					
+				}
+				//Mine Rune
+				if ((objectID == 2106) || (objectID == 2107))
+				{
+					//actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "minerunite";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+			
+				}
+				//Mine Essence
+				if (objectID == 2491)
+				{
+					//actionAmount++;
+					if (actionTimer == 0)
+					{
+						actionName = "mineessence";
+						actionTimer = 15;
+						pEmote = 0x271;
+						updateRequired = true; appearanceUpdateRequired = true;
+					}
+				}
+				/*	//Mine blurite
+				 if ((objectID ==  )) //Insert blurite rocks here
+				 {
+				 //actionAmount++;
+				 if (actionTimer == 0)
+				 {
+				 actionName = "mineblurite";
+				 actionTimer = 15;
+				 pEmote = 0x271;
+				 updateRequired = true; appearanceUpdateRequired = true;
+				 }
+				 */
+				 //Mine elemental
+				 if (objectID == 6669 || objectID == 6670 || objectID == 6671) //Insert elemental rocks here
+				 {
+				 actionName = "mineelemental";
+				 actionTimer = 15;
+				 pEmote = 0x271;
+				 updateRequired = true; appearanceUpdateRequired = true;
+				 }

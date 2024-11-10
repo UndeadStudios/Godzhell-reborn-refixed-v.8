@@ -1,0 +1,241 @@
+Purpose: Teach you how to make npc dialogues
+
+Difficulty: 7-9
+
+Assumed Knowledge: you should know how to add voids
+
+Server Base: cheeazscape 78 (should work in most)
+
+Classes Modified: client.java
+
+
+
+
+
+
+ok i was talking with mr candy on msn when he told me he would like to add more dialogues but he didn’t know how, and he doesn’t have the dialogues.cfg as testscape and cheez 78's don’t have them and I don’t really like them , so this tut if for people who want to add more dialogues but not have the dialogues.cfg
+
+This is 110% mine , I don’t want to see this leeched onto other forums and people saying its there’s I spent ages working this out and typing it all out in a way I hope people will understand
+
+procedure
+Step 1
+
+ok first of all you need to do is edit your client.java so you wont need any other files open.
+
+First of you get the id of the npc you want to be made to talk, so I will use 1002 as an example (please not I don’t know which npc 1002 is, this is only an example) ok now look for
+Code:
+
+ case 155: //first Click npc 
+
+now scroll down till you see something like :
+
+Code:
+
+ } else if (NPCID == 494 || NPCID == 495) { /*Banking*/
+					skillX = server.npcHandler.npcs[NPCSlot].absX;
+					skillY = server.npcHandler.npcs[NPCSlot].absY;
+					NpcWanneTalk = 1;
+				}
+
+
+step 2
+
+Under that add your npc so , like this :
+Code:
+
+else if (NPCID == [b]1002[/b]) {//the npc 1002    
+               skillX = server.npcHandler.npcs[NPCSlot].absX;
+               skillY = server.npcHandler.npcs[NPCSlot].absY;
+               NpcWanneTalk = [b]1339[/b];
+}
+
+
+step 3
+
+The two parts in bold are very important, the first one – 1002 has to be your npc id , so whatever the npc id is it has to go in here and the second bold 1339 is a case…. Now you need to make cases for the chat and cases for the accepting or declining.
+
+Ok now for the cases look for
+Code:
+
+ public void UpdateNPCChat() { 
+
+now under that you will see case1 , case 2, and so on…. Now add in your case so do this….
+
+Code:
+
+  case 1339:
+            sendFrame126(GetNpcName(NpcTalkTo), 4902);
+            sendFrame126("", 4903);
+            sendFrame126("HEY WHATS UP ADD YOUR TEXT HERE", 4904);
+            sendFrame126("MORE TEXT HERE", 4905);
+            sendFrame126("", 4906);
+            sendFrame75(NpcTalkTo, 4901);
+            sendFrame164(4900);
+            NpcDialogueSend = true;
+            break;
+
+
+now if you want there to be a choice dialogue then you need to add another case like so :
+Code:
+
+ case 1340:
+            sendFrame171(1, 2465);
+            sendFrame171(0, 2468);
+            sendFrame126("Select an Option", 2460);
+            sendFrame126("Yes, please", 2461);
+            sendFrame126("No, Thank you.", 2462);
+            sendFrame164(2459);
+            NpcDialogueSend = true;
+            break;
+
+
+now notice how that case is
+Code:
+
+case 1340:
+
+and the one before was
+Code:
+
+case 1339:
+
+that’s because you need them to come one after the other so if I chose … 10 i would need cases 10 and 11…..
+
+step 4
+right now search for: case 40: and it should look something like this…..
+Code:
+
+ case 40:
+				if (NpcDialogue == 1 || NpcDialogue == 3 || NpcDialogue == 5  || NpcDialogue == 40 || NpcDialogue == 42
+
+
+now on this bit :
+Code:
+
+ if (NpcDialogue == 1 || NpcDialogue == 3 || NpcDialogue == 5  || NpcDialogue == 40 || NpcDialogue == 42 || NpcDialogue == 1001 || NpcDialogue == 1002 || NpcDialogue == 2259 || NpcDialogue == 2260 || NpcDialogue == 301 || NpcDialogue == 305 || NpcDialogue == 308 || NpcDialogue == 309 || NpcDialogue == 313 || NpcDialogue == 314 || NpcDialogue == 317 || NpcDialogue == 318 || NpcDialogue == 319 || NpcDialogue == 322 || NpcDialogue == 323 || NpcDialogue == 14600 || NpcDialogue == 14602) {
+
+
+Add the
+Code:
+
+ NpcDialogue == 1339
+
+onto the end so make the above stuff look like this….(the bit in bold is what we just added)
+
+Code:
+
+if (NpcDialogue == 1 || NpcDialogue == 3 || NpcDialogue == 5  || NpcDialogue == 40 || NpcDialogue == 42 || NpcDialogue == 1001 || NpcDialogue == 1002 || NpcDialogue == 2259 || NpcDialogue == 2260 || NpcDialogue == 301 || NpcDialogue == 305 || NpcDialogue == 308 || NpcDialogue == 309 || NpcDialogue == 313 || NpcDialogue == 314 || NpcDialogue == 317 || NpcDialogue == 318 || NpcDialogue == 319 || NpcDialogue == 322 || NpcDialogue == 323 || NpcDialogue == 14600 || NpcDialogue == 14602[b] || NpcDialogue == 1339[/b]) {
+
+
+case 40 makes anything number in the above code (which are cases in ure source) be +1 so it makes case 1339 move onto case 1340 once you click continue
+
+ok now onto the part where if you chose “Yes, please “ or “no thank you”
+
+step 5
+ok now first is the “yes, please” ok clicking this option (which is also the first option in the dialogue) will require some coding in case 9157:
+so look for case 9157: and you should see something like this :
+
+Code:
+
+ case 9157:
+						if (NpcDialogue == 2) {
+							NpcDialogue = 0;
+							NpcDialogueSend = false;
+							openUpBank();
+						} else if (NpcDialogue == 4) { //Aubury
+							NpcDialogue = 0;
+							NpcDialogueSend = false;
+							openUpShop(2);
+						}
+
+
+So the
+Code:
+
+ if (NpcDialogue == 2) {
+
+refers to the cases we were discussing earlier, and the
+Code:
+
+ NpcDialogue = 0;
+							NpcDialogueSend = false;
+							openUpBank();
+
+
+
+Is what it does once you have clicked on the “yes, please” , so using our example we will add our code (we will pretend it was to get teleported somewhere)
+
+Add this near the others
+Code:
+
+ else if (NpcDialogue == 1340) { //npc 1002
+							NpcDialogue = 0;
+							NpcDialogueSend = false;
+							teleportToX = 1234;
+							teleportToY = 1234;
+						}
+
+
+The
+Code:
+
+ else if (NpcDialogue == 1340)
+
+has to be the case the “yes, please” and “no, thank you” are on… so if I made the “1340” into “1341” it wouldn’t work or even “1339” wouldn’t work ok? Got it ? good
+
+step 6
+Ok now for the “no, thank you” ok clicking this option (which is the second option in the dialogue) which will require some coding in case 9158:
+So look for case 9158: (under case 9157: ) and you will see something like this :
+Code:
+
+ case 9158:
+						if (NpcDialogue == 2) {
+							NpcDialogue = 0;
+							NpcDialogueSend = false;
+							openUpPinSettings();
+						} else if (NpcDialogue == 4) {
+							NpcDialogue = 5;
+							NpcDialogueSend = false;
+						                  }else if (NpcDialogue == 41){
+                     NpcDialogue = 0;
+                     NpcDialogueSend = false;
+                     RemoveAllWindows();
+                  }
+
+
+So this has the same concept as the case 9157, meaning that the
+Code:
+
+ else if (NpcDialogue == 1340)
+
+has to be 1340 (remember this is just an example number),
+Code:
+
+                     NpcDialogue = 0;
+                     NpcDialogueSend = false;
+                     RemoveAllWindows();
+
+
+This code above is very important….. the
+Code:
+
+ NpcDialogue = 0;
+
+tells the server that the next dialogue to appear is 0, which means no more dialogues will appear, but you could have it as
+Code:
+
+ NpcDialogue = 6678;
+
+or something like that and it would load whatever is in case 6678:, the code below is also important
+Code:
+
+ NpcDialogueSend = false;
+                     RemoveAllWindows();
+
+as it stop the server from sending the dialogue and then it closes the dialogue screen.
+
+And that’s it, hope you enjoyed the tut and now understand how to add dialogues
+
+
+credits: -fedexer- (myself)
+I found this tut hard to split into steps ppl so yeah…..

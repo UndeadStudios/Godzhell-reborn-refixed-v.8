@@ -1,0 +1,60 @@
+INTERESTING IDS TYPED RANDOMLY (by xerozcheez):
+
+360-370 - ancients ice spells
+370-380 - ancients blood spells
+380-390 - ancients shadow/smoke spells
+
+57 - port cullus going down
+58 - port cullus lifting up
+59 - whirlpool
+61 - log on chain swinging lol
+155-172 - normal combat spells
+245 - stars above head
+284 - dragon hally special
+435 - electricity thing
+346 - explosion
+501 - ice thing
+392 - ancient magicks teleport!!!
+396 - wierd blue spell
+393 - wierd fire thing
+394 - wierd green thing
+395 - wierd ice thing
+400 - karils anti agility attack
+361 - ice burst failing
+363 - ice burst (being attacked)
+364 - giant ice block (not in real rs ancient magicks)
+365 - giant ice block (not in real rs ancient magicks)
+367 - ice blitz (being attacked)
+366/368 - ice blitz (casting)
+369 - ice barrage
+370 - huge ice block (not in real rs ancient magicks
+
+GRAPHIC IDS (in order by xerozcheez):
+
+0 - kbd fire
+1 - fire
+2 - white thing
+3 - green thing
+4 - purple rays
+5 - moving purple rays
+6 - sort of like teleporting
+7 - sort of like teleporting
+8 - vines?
+9 - arrow
+10 - arrow
+11 - arrow
+12 - arrow
+13 - arrow
+14 - arrow
+15 - arrow
+16 - ice arrow
+17 - fire arrow
+18 - moving arrow
+19 - moving arrow
+20 - moving arrow
+21 - moving arrow
+22 - moving arrow
+23 - moving arrow
+24 - moving arrow
+25 - moving ice arrow
+26 - moving fire arrow

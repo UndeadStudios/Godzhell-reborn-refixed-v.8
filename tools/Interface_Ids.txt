@@ -1,0 +1,212 @@
+Interface ID	Description
+	
+0	Thessalia's Makeovers [Legs]
+139	Select an option
+147	Player Controls
+196	Player killing skull
+200	Player killing skull
+205	What would you like to enchant?
+246	The Blueberry Cocktail Guide
+247	Empty title bar
+293	Left arrow
+294	Right arrow
+297	Quest Reward Scroll
+328	Staff Equip
+356	Single line text [click here to continue]
+359	Two line text [click here to continue]
+363	Three line text [click here to continue]
+368	Four line text [click here to continue]
+425	Warhammer equip
+446	Ranging Minigame (target)
+569	The Blueberry Cocktail Guide (Gnome?)
+573	Right arrow
+582	Gnome bowls, crunchies, battas
+599	Blank menu bar
+638	Quest journal
+665	First the rows of emotes?...
+671	Combination lock door
+716	Combination lock door
+719	Blank menu bar
+776	Scythe equip
+802	Map (Spirit trees, I think)
+837	Book interface
+840	Left arrow
+842	Right arrow
+865	Black menu bar
+876	Draughts - Options
+904	Game options (High detail)
+962	Harp tab (High detail)
+968	Chat text (Name, Line1, Click here to continue)
+973	Chat text (Name, two lines , Click here to continue)
+979	Chat text (Name, three lines , Click here to continue)
+986	Chat text (Name, four lines , Click here to continue)
+994	Smithing menu
+1097	1 bar, Other"
+1133	1 bar, studs
+1136	Map of some sort
+1151	Magic sidebar
+1194	Spell description box
+1644	Character equip tab
+1668	Box showing bonuses
+1689	Staff set (Ancient Magicks)
+1690	Box (Spell descriptions)
+1698	Battleaxe equip
+1743	How many would you like to cook?
+1749	Bow equips
+1764	Bow equips
+1779	Gianne's Cook Book
+1787	Left arrow
+188	Right arrow
+1789	Blank menu bar
+1829	Set a spell
+1846	Spell description box
+1908	Wilderness warning
+2007	Hairdresser Salon (beard)
+2505	Hairdresser Salon (hair [female])
+2156	Party Drop Chest
+2276	Sword equip
+2302	Cogs
+2311	Leather crafting
+2400	What would you like to smelt? (Smelt X)
+2423	Sword Equip
+2449	Log out sidebar
+2459	Select and option [two options]
+2465	Two swords facing inwards [chatbox]
+2469	Select and option [three options]
+2476	Two swords facing inwards [chatbox]
+2480	Select and option four options]
+2488	Two swords facing inwards [chatbox]
+2492	Select and option [five options]
+2501	Two swords facing inwards [chatbox]
+2633	Hairdresser Salon (Hair [male])
+2808	Genie Lamp (skill select)
+2834	Lock
+2851	Thesselia's Makeover (torso [male])
+3023	Genie Lamp selection background
+3038	Thesselia's Makeover (torso [female])
+3208	"You are the winner"
+3209	Tzhaar View Choice
+3213	Inventory
+3236	6 Yellow outlines of squares
+3249	Gear placement
+3279	Tears of Guthix minigame
+3281	Map (Karamja etc)
+3323	Trade interface
+3443	Trading confirmation
+3559	Character design window
+3702	Telescope view
+3796	Mace equip
+3824	Axe shop
+3917	Skill sidebar
+3918	First row of three skills
+3925	Second row of three skills
+3932	Third row of three skills
+3939	Fourth row of three skills
+3946	Fifth row of three skills
+3953	Sixth row of three skills
+3960	Quest points, combat level, total level
+4148	Last row of skills
+4161	What would you like to make? [Rings, Amulets, Necklaces)
+4228	Ring mould in above interface 4161
+4234	Necklace mould in above interface 4161
+4340	Amulet mould in above interface 4161
+4261	Advanced a thieving level
+4262	Click the tune to play
+6267	Advanced a runecrafting level
+6272	Advanced a woodcutting level
+6277	Advanced an Agility level
+6282	Advanced a fire making level
+4305	Clue scroll map
+4416	Advanced a mining level
+4429	How many would you like to make?
+4443	Advanced a ranging level
+4445	Game options (low detail)
+4446	Throwing knives equip
+4465	Deposit box
+4471	Egyptian sliding puzzle
+4504	Black hole?
+4543	Barrows puzzle
+4588	Book
+4564	Trawler catch
+4679	Spear Equip
+4705	Sword Equip
+4731	Thessalia's Makeovers (legs [female])
+4909	Reward (Certificate)
+4919	Fraction Still
+4970	Temple repair
+5065	Friends list
+5292	Bank
+5392	Newcomer's map
+5454	Select skin colour and gender
+5570	Pickaxe equip
+5596	Trawler instructions
+5608	Prayer menu
+5715	Ignore list
+5855	Unarmed
+5875	Report Abuse
+6014	Unmoph
+6028	List of needed items
+6103	Handle equip
+6152	Prison guard random event
+6206	Advanced a Strength level
+6211	Advanced a Magic level
+6216	Advanced a hitpoints level
+6221	Advanced a Smithing level
+6226	Advanced a cooking level
+6231	Advanced a Fletching level
+6237	Advanced a Herblore level
+6242	Advanced a Prayer level
+6247	Advanced an Attack level
+6253	Advanced a Defence level
+6258	Advanced a Fishing level
+6263	Advanced a Crafting level
+6299	Low memory music tab
+6308	Dueling scoreboard
+6412	Are you sure you want to fight this duel?
+6500	You are about to stake:
+6501	Your opponent will stake:
+6543	Mime emotes (chatbox)
+6554	Mysterious box
+6568	Maze random event
+6575	Dueling with:
+6665	Your stake:
+6666	Opponent's stake
+6667	Accept
+6668	Decline
+6672	Blank menu bar
+6673	There is % of the reward left
+6675	Dice?
+6733	Dueling victory
+6824	Claim
+6946	Sextant
+6960	Clue Reward
+6965	Clue scroll
+6984	Hint
+7045	Clue map
+7092	Lines on the clue scroll
+7113	Clue map
+7162	Clue map
+7271	Clue map
+7424	Bank pin
+7762	Claws equip
+8016	Grave monument
+8030	Grave stone
+8109	Hands holding a stone sign
+8119	Black paper
+8134	IfQuestName
+8207	Select an Option [four options]
+8215	Two swords facing inwards [chatbox]
+8219	Select an Option [five options]
+8228	Two swords facing inwards [chatbox]
+8292	Brimhaven Agility Arena Ticket Exchange
+8431	Claws, 2 bars
+8460	Halberd equip
+8511	Some puzzle thing
+8559	More sophisticated version of 8511
+8577	Crunchy (126) beat Crunchy (126)"
+8680	Tutorial Island Process
+8714	Skill menu [when you click on a skill that window pops up...]
+8800	Empty box?
+8813	Bronze \ Iron
+8825	Steel
+8825	Mithril

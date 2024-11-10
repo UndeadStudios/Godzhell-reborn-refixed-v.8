@@ -1,0 +1,551 @@
+>>> = Everything In Between Disconnects Or Doesnt Show Anything
+SpellID---------Name---------------------------------------------------------
+1		FireBall
+2		IceBall
+3		Nothing
+4		Purple Razes1
+5		Purple Razes2
+6		Purple Ground Implode
+7		Teleport Implode
+8		Vines Grab 
+9		Nothing -Disconnects
+10		Nothing -Disconnects
+11		Nothing -Disconnects
+12		Nothing -Disconnects
+13		Nothing -Disconnects
+14		Nothing -Disconnects
+15		Nothing -Disconnects
+16		Nothing -Disconnects
+17		Nothing -Disconnects
+18		Bronze Arrow
+19		Iron Arrow
+20		Steel Arrow
+21		Mithril Arrow
+22		Adamanite Arrow
+23		Black Arrow
+24		Rune Arrow
+25		Ice Arrow
+26		Fire Arrow
+27		Nothing -Disconnects
+28		Crossbow Bolt
+29		Rock/Cannonball Rolling???
+30		Rock/Cannonball Tossed???
+31		Rock/Cannonball Smash??? Splashing dirt???
+32		Nothing -Disconnects
+33		Nothing
+34		Nothing -Disconnects
+35		Flying Iron Axe
+36		Flying Bronze Axe
+37		Flying Steel Axe
+38		Flying Mithril Axe
+39		Tomateo Flying
+40		Flying Addy Axe
+41		Flying Rune Axe
+42		Flying Iron Axe
+43		Start Tossing Bronze Axe
+44		Start Tossing Steel Axe
+45		Start Tossing Mithril Axe
+46		Start Tossing Addy Axe
+47		Start Tossing Bronze Axe
+48		Start Tossing Rune Axe
+49		Flying Vile
+50		Start Tossing Vile
+51		Sparkling Flying Vile
+52		Start Tossing Sparkling Vile
+53		Nothing -Disconnects
+54		FireBall Still
+55		Gnome Ball Throw
+56		Iron Sword Swing??
+57		Big Gate Drop Down
+58		Big Gate Go Up
+59		Big Wirl Wind
+60		Rocks Falling
+61		Swing
+62		Wall Spikes
+63		Disconnects Reconnects Cont
+64		Disconnects Reconnects Cont
+65		Spikes On Floor Close On You
+66		Spikes On Floor Return To Normal
+67		Pool Exstends???
+68		Blue Big Splash
+69		Red Big Splash
+70		Nothing -Disconnects
+71		Kinda Like A Wave End Id, But Black And Green
+72		Seagull Flying
+73		Smoke? orbs flying around big orb?? Small
+74		White Rocks Falling
+75		Nothing -Disconnects
+76		Saradomin Strike
+78		Flames of Zamorak
+79		Green Alien Like Orbs... in a triangle, floating..
+80		Dizzy Birds
+81		Broom swing in circles???
+82		Electricity???
+83		Hellish Huge Stream Of Smoke From Ground
+84		Sparkles???
+85		Splash Effect?? Maby Runecrafting Splash??
+86		Imp Teleport
+87		Iban Blast Start Effect On Staff
+88		Iban Blast Skull Flying
+89		Iban Blast End ID
+90		Wind Strike Start
+91		Wind Strike Middle
+92		Wind Strike End
+93		Water Strike Start
+94		Water Strike Middle
+95		Water Strike End
+96		Earth Strike Start
+97		Earth Strike Middle
+98		Earth Strike End
+99		Fire Strike Start
+100		Fire Strike Middle
+101		Fire Strike End
+102		Weaken Start??? Purple Starts In Hand
+103		Weaken Middle?? Flying Purple Start
+104		Weaken End?? Purple Circling Rings
+105		White Snow Start??? Snow Flakes In Hand???
+106		White Snow Fly??? Snow Flake Flying
+107		Snow Falling End??? Snow Flakes Falling???
+108		Purple Rings Falling Start
+109		Purple Rings Flying Middle
+110		Purple Rings Surround End
+111		Teleport Implode???
+112		Alch Implode Only
+113		Alch Implode Explode Cont
+114		Enchant Ammy 1 time
+115		Enchant Ammy 2 times
+116		Enchant Ammy 3 times
+117		Wind Bolt Start
+118		Wind Bolt Middle
+119		Wind Bolt End
+120		Water Bolt Start
+121		Water Bolt Middle
+122		Water Bolt End
+123		Earth Bolt Start
+124		Earth Bolt Middle
+125		Earth Bolt End
+126		Fire Bolt Start
+127		Fire Bolt Middle
+128		Fire Bolt End
+129		Fire Blast Start
+130		Fire Blast Middle
+131		Fire Blast End
+132		Wind Blast Start
+133		Wind Blast Middle
+134		Wind Blast End
+135		Water Blast Start
+136		Water Blast Middle
+137		Water Blast End
+138		Earth Blast Start
+139		Earth Blast Middle
+140		Earth Blast End
+141		White Balls To Gold Spike Thing In Hands
+142		Start Purple Circle Rings Thingy
+143		Middle Purple Circle Rings Thingy
+144		Explode Purple Circle Rings Thingy
+145		Start 2 white balls rize from ground by each hand
+146		Middle Spinning tri White Balls
+147		End Tri White Balls Explode
+148		Super Heat Item???
+149		Enchant Water Staff Head
+150		Enchant Wind Staff Head
+151		Enchant Earth Staff Head
+152		Enchant Fire Staff Head
+153		Gold Enchant Ammy 1 time?
+154		Gold Enchant Ammy 2 times?
+155		Fire Wave Start
+156		Fire Wave Middle
+157		Fire Wave End
+158		Wind Wave Start
+159		Wind Wave Middle
+160		Wind Wave End
+161		Water Wave Start
+162		Water Wave Middle
+163		Water Wave End
+164		Earth Wave Start
+165		Earth Wave Middle
+166		Earth Wave End
+167		Start Purple Things Fall Into Hands
+168		Middle Purple Things Fly
+169		End Twirl Purple Things
+170		Purple Starts Fall
+171		Purple Starts Fly
+172		Purple Starts Explode
+173		White Circle Of Stuff In Hands
+174		White Circle Of Stuff Flys
+175		Nothing Happens
+176		Vile In Hands, Red Effect
+177		Start Green Stuff Falls In Hands
+178		Middle Green Seed Flys
+179		End Red Vines Twirl Around
+180		White Vines Twirl Like 179
+181		Purple Vines Twirl Like 179, 180
+182		Spear Fly
+183		Spear Break
+184		Green Imp Telport
+185		Flying Wind Projectile???
+186		Runecrafting At Rune Alter
+187		Claws Of Guthix??
+188		Bigger Imp Teleport
+189		Even Bigger Imp Teleport
+190		Big Blue Exsplosion
+191		Big Teleport Bubble Explode?
+192		Flying Blue Vile
+193		Throwing Blue Vile
+194		Black Bubble?
+195		Flying Black Bubble
+196		Black Bubble Pop?
+197		Big Blue Spikes, White Smoke???
+198		Wind Wave Explode Again?
+199		Level Up FireWorks!!!
+>>>		Nothing -Disconnects
+219		Bronze throwing knife start
+220		Iron throwing knife start
+221		Steel throwing knife start
+222		Black throwing knife start
+223		Mithril throwing knife start
+224		Adamant throwing knife start
+225		Rune throwing knife start
+>>>		Nothing -Disconnects
+
+//Someone Else Made
+
+232		Bronze throwing dart
+233		Iron throwing dart
+234		Steel throwing dart
+235		Mithril throwing dart
+236		Adamant throwing dart
+237		Rune throwing dart
+238		Some light thing
+239		Barrel breaking
+240		Something breaking
+241		Fire blowing thing
+242		Nothing -Disconnects
+
+//Fixed Command At This Point Might Need To Redo Above IDs
+
+243		White Arrow With Poison
+244		Magic Shield Activate
+245		Long Dissy Effect
+246		Red Glowing Stuff Around You
+247		Blue Glowing Stuff Around You
+248		Dragon Lonsword Special Attack
+249		Nothing -Disconnects
+250		Magic Bow Special Attack??
+251		Dragon Mace Special Attack
+252		Dragon Dagger Special Attack
+253		Dragon Special? Double Bladded weapon?
+254		Meduim Dissy Effect
+255		Big Green Egg Fades In And Out 3 Times
+256		Quick Magic Bow Special Attack??
+257		Axe Fall Out Of Hands, Roll On Ground
+258		Spinning Glowing Blue Axe Special Attack???
+259		Big Green Egg Again
+260		Nothing -Relogs Player Cont Fatal Error <Fakes Players On>
+261		Nothing -Relogs Player Cont Fatal Error <Fakes Players On>
+262		Nothing -Causes Fatal Error ^^
+263		Gold Sparkles Rain Down
+264		Gold Sparkles Splash
+265		Detailed Ghost Fades Into Up Air
+266		Earth Wave Blast End??
+267		Green Imp Tele Bubble
+268		Flying Earth Blast Projectile
+269		Earth Strike Explode?
+270		Multiple Flying Poison Blow Darts?
+271		Bright Brown Rocks Falling From Sky
+272		Red Sparkles Fly Up
+273		Throwing Dart?
+274		Wings? Small?? Wtf??
+275		Rock Being Thrown
+276		Nothing -Disconnects
+277		Sleeping zzZZZs
+278		Beattle Grab Flat???
+279		Beattle Grab Up?
+280		Flying Ice ball? sparkle type projectile?
+281		White Starts Circle Enemy
+282		Big Swipe Dragon Attack Special
+283		Big Swipe Op Dragon Attack Special
+284		Big Swipe Sideways Dragon Attack Special
+285		Big Swipe Sideways Op Dragon Attack Special
+286		Steaming Barrow?
+287		Huge Explosion! Barrow explode???
+>>>		Nothing -Disconnects
+290		Wood Club WACK!
+291		Dissy Effect
+292		Flames Of Zammy Again? Maby Straighter!?!?!?
+293		Ghost Player Detailed Teleport Animation, Go To Heaven
+>>>		Nothing -Disconnects
+301		Teleport?
+302		Gold Rocks Fall
+303		Big Rock Fall Single
+304		Nothing -Disconnects
+305		Dark Earth Wave Explode?
+306		Purple Dagger Special Attack??
+307		Pickaxe??
+308		Teleport Fast
+309		Pickaxe Fly
+310		Smoke Cloud
+311		Dark Red Spell In Hands
+>>>		Nothing -Disconnects
+325		Big Arrow?
+326		Nothing -Disconnects
+327		White Dust (Hella Small) Drops To The Side
+328		Magic Dart!!! <Ghostly Blue Projectile>
+329		Magic Dart Explode?? <Ghostly Blue Explosion>
+330		Magic Dart!!! <Ghostly Blue Projectile> <Maby A Bit Longer>
+331		Magic Dart Explode?? <Ghostly Blue Explosion>
+332		Purple Glow Around person
+333		Big Red Line Travel Up
+334		Green <Hella Small Pop>
+335		Green <small Pop>
+336		Green <Bigger Pop>
+337		Evil Chicken Sound Wave Attack
+338		Stick Wack?
+339		Splash?
+340		Green Upper Cut Special Attack?
+341		Abbysall Whip Special
+342		Tele Other Up
+343		Tele Other Cast?
+344		Bunch Of Dots Implode, Then Explode
+345		Buncha Blue Dots Encase Player, Circling
+346		Fire Blast Explode
+347		Some Dragon Special Attack?
+348		Dissy Short Effect
+349		Sleeping zzzs
+350		Bunch Of Flying Crows
+351		Undead Leap Out <Hella Freaky>
+352		Undead Leap Out From Laying Down <Hella Freaky>
+353		Ghostly Straight Beam?
+354		Smoke Bubbles Appear, Then Drop
+355		Nothing??
+356		Cracks In The Ground Start Apearing
+357		Bigger Fire!!
+358		White Beam That I Once Thought Was Ghostly
+359		Big Air Wave Explosion?
+360		Ice Tri Flying <Ancients Ice Spell>
+361		Ice Tri Explode	<Ancients Ice Spell>
+362		Hella Ice Tri Fly <Ancients Ice Spell>
+363		Hella Ice Tri Finish <Ancients Ice Spell>
+364		Huge Hella Ice Tri Finish <Ancients Ice Spell>
+365		HUGERR Hella Ice Tri Finish <Ancients Ice Spell>
+366		Energy, Rain Falling Up <Ice Ancients
+367		Energy, Rain Falling Down, Crackling <Ice Ancients>
+368		Bigger, Energy, Rain Falling Up <Ice Ancients>
+369		Bigger, Energy, Rain Turn Into Ice Cube Finish <Ice Ancients>
+370		EVEN BIGGER 369!!!
+>>>		Nothing?
+373		Lava Flames, Red Stuff Spraying Up <Blood Ancients>
+374		Flying Stuff Red Lava, Blood, Looks like 373 <Blood Ancients>
+375		Red Chars, Blood Falling? Exploding? What? May Go With 374, And 373 <Blood Ancients>
+376		Tri Red Darts Fly Up With Glow And Trail <Blood Ancients>
+377		Bigger 377
+378		Charging Shadow? <Shadow Ancients>
+379		Shadow Spring Up <Shadow Ancients>
+380		Shadow Man? <Shadow Ancients>
+381		Bigger Shadow Spring Up <Shadow Ancients>
+382		Shadow Charge? <Shadow Ancients>
+383		Bigger 382
+384		Flying Grey Projectile <Smoke Ancients>
+385		Explode Grey Smoke? <Smoke Ancients>
+386		Double Flying Grey Projectile <Smoke Ancients>
+387		Smoke Sourround <Smoke Ancients>
+388		Smoke Sourround Cooler <Smoke Ancients>
+389		Dust In And Out <Smoke Ancients>
+390		Smoke Sourround <Smoke Ancients>
+391		Dust In And Out <Smoke Ancients>
+392		Square Purple Boxes Pile Up?
+393		Green Ball?
+394		Green Ball Again
+395		white Ball
+396		Blue Ball?
+397		Glass Breaks Then Fixes Itself???
+398		Purple Ghost Swirl Travel Up?
+399		Purple Hands Reach From Ground Grab you
+400		Purple Little Ghost Swirls Around
+401		Smaller Purple Little Ghost Swirls Around
+402		Puke Color imp Bubble
+>>>		Nothing
+405		Black Rocks Fall From Sky
+406		Big Black Rock Falls From Sky
+>>>		Nothing -Disconnects
+409		Spinning Vortex Ball, Smaller Version of The Abyssal Rift?
+410		Fishing Spot Move Maby??
+411		Nothing?
+412		Barrow Of Apples, Apples Shrink?
+413		Barrow Of Tomatoes, Tomatoes Shrink?
+414		Barrow Of Apples, Apples Shrink, Turn Into Mush
+415		Barrow Of Tomatoes, Tomatoes Shrink? Turn Into Mush
+416		Spinning Gunk?
+417		Spinning Gunk Smash?
+418		Blue Spinning Gunk?
+419		Blue Spinning GunK Smash?
+420		Red Spinning Gunk...
+421		Red Gunk Smashed...
+422		Yellow Spinning Gun.....
+423		Yellow Gunk Smashed!!!
+424		Green Spinning GunK!!!.......
+425		Green Crap Smashed! <SICK OF THESE GUNKS!>
+426		Stars Circle Around
+427		Somthing Breaks? Rock Falling Finish Effect maby?
+428		Nothing...
+429		Green Strike Pop?
+430		Red Strike Pop?
+431		White Strike Pop?
+432		Skeleton Die???
+433		Eletricity Travel Up? Kinda Like Lightning Hits The Ground??
+434		Same As 433 Might Be Bigger
+435		Same As 434 and 433, Diffrent Though
+436		Stars Travel Up And Down, Caster??? Castie??? <Cool :P>
+437		Red Beam, Beams Somthing Down? <HELLA COOL> <Could use For Teleporting>
+438		Red Appears Hella Fast Then Vanishes
+439		Fire? Dragon Fire?
+440		Huge Flying FireBall
+441		Same As 437 But Travels Up!!! <NIIICE> <Could Use For Teleporting :P>
+442		WTF???
+443		Nothing -Disconnects
+444		Tar-Tek Pit Healing Spell
+445		Pit Fire Bat Fly
+446		Pit Fire Bat Die
+447		Fire Ball
+448		Detailed Fire Ball <COOL>
+449		Cooler Fire Ball?
+450		Smaller 449
+451		Huge Lava Rock Fall
+452		Red Enchant Ammy? Onyx Maby?
+453		Fire? Fire Bat <Kinda Cool>
+454		Raze Orb, And It Casts A Sonic Wave
+455		Ancients Teleport Finish?
+456		Splash
+457		Butter Turner?
+458		Iron Butter Turner???
+459		Another Butter Turner...
+460		Another Butter Turner....
+461		Another...
+462		Another.....
+463		Same God Damn Thing!
+464		These Butter Turns Never End!!!
+465		Light? Symbol? Bright White Flash
+466		Zombie Splits In Half Stands There...
+467		Zombies Head Falls Off
+468		Zombie Falls Apart in Half
+469		Nothing?
+470		Water Bubbling
+471		Nothing -Disconnects
+472		White Glowing Arrow
+473		White Flying Projectile
+474		White Fireworks, White Spikes Finish Spell
+475		Really Really Fast Somthing Blinks...
+476		Nothing
+477		Blue Vortex Swirls <Like Water> And Disappears
+478		Nothing -Disconnects
+479		Dragon Special Attack?
+480		Light? Symbol Flashes
+481		Target Shapes Pop Up, Circles, Splash Effect
+482		Red Circles Go Up And Down Around Person?
+483		Black Swirl In Air SideWays Then Turns Into A Star
+484		Kinda like Ancients Smoke Finish...
+485		Kinda like 484 But Bigger maby?
+486		Ghost Kitten Goes Up??? Ghost Small Animal
+487		Nothing?
+488		Green Ball Up, Then Sideways Falls Down
+489		Green Snow Fall
+490		???
+491		Nothing -Disconnects
+492		Red Snow Fall?
+>>>		Nothing
+495		Rock Being Thrown By NPC?
+496		Rock Rolling?
+497		2 Big Fire To The Side, Then Throw!!! <FKING COOL>
+498		497 Flying Projectile
+499		Blue Ball Razes
+500		Blue Ball Projectile
+501		Kinda Like A Screw Shape Blue Thing
+502		500 Explode?
+503		Blue Rift???
+504		Blue Rift Agian?
+505		Pink Wave Start?
+506		Explosion? Kinda Like A Bomb Exploding
+507		Red Puppet Dance
+508		Red Puppet Walk
+509		Red Puppet Boew
+510		Red Puppet Twist Arms, And Walk
+511		Blue Puppet Dance
+512		Blue Puppet Walk
+513		Blue Puppet Boew
+514		Blue Puppet Twist Arms, and Walk
+515		green Puppet Dance
+516		green Puppet Walk
+517		green Puppet Boew
+518		green Puppet Twist Arms, and Walk
+519		Magic Portal Thing, Gate Way?
+520		Bones Fall From Teleport In Air?
+521		Same As 520 Dif Color Bones
+522		Same As 520, 521 Dif Color Bones
+523		Same As 520, 521, 522, Dif Color Bones
+524		White Spike Ball Pops
+>>>		Nothing
+536		Shadow Crawling <Ancients>
+537		Smoke Projectile <Ancients>
+538		Smoke Rize <Ancients>
+539		Ice Block <Ancients>
+540		Smoke Rize?? <Ancients?>
+541		Green Splash <Small>
+542		Explosion
+>>>		Nothing -Disconnects
+545		Barrow With A Lit Fuze
+546		Fuze Lit
+547		Barrow Explode
+548		???
+549		???
+550		Green Balls...
+551		Green Balls Spin
+552		Green Balls Sonicly Explode
+553		Red 550
+554		Red Flying
+555		Nothing
+556		MultiColors
+557		MultiColors 2
+558		MultiColors 3
+559		Blood Spell Finish <Ancients?>
+560		Skeleton Chained Up?
+>>>		Nothing
+563		Roasting Chicken On Rotater Over Fire
+>>>		Nothing
+566		Roasting Pig Same As 563
+567		Smoke Cloud
+568		Flowers above head
+569		Flowers Around Player
+570		Rolling Rock
+571		Buncha Smoke Brown Colored
+572		Hole opens In Ground
+573		572 shorter
+574		Heart
+575		Blue Sparkles Everywhere
+576		Black Sparkles Everywhere
+577		Mushroom Dude
+578		Huge Mushroom Dude
+579		Weired Fire Ball
+580		Imp Teleport
+581		Couldren Spinning
+582		Explosion
+583		Egg? Crack Open?
+584		Egg? Lid Fall Off
+585		egg
+586		Egg lid
+587		???
+588		Huge Arrow?
+589		???
+590		Perminit Book
+591		Perminit Book Vanish
+592		Scroll?
+593		Flowers
+594		Jellow???
+595		IceCream Shake?
+596		Yellow Gay Thing...
+>>>		Nothing?
+599		Bowl Of Food?
+600		Nothing
+601		White Rings
+602		Cake?
+603		???
+>>>		LIST ENDS HERE FOR MOPAR 2.1 CACHE

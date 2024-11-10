@@ -1,0 +1,40 @@
+Jakkie 123:
+
+how to make yourself a mod:
+
+	1. go to the directory of your LaxiaScape.
+	2. double click on characers.
+	3. open the file of your character (example: test.txt)
+	4. search for: 'rights'
+	5. edit the number behind it: 0 and 3 = normal player, 1 = \Y/ player moderator,  2 = \Y/ admin.
+	6. save and login Smiley
+
+                                              HAVE FUN!
+
+how to start the server:
+
+	1. double click on "start server.bat"
+	2. wait until it displays: "server started succesfully!"
+	3. start the MoparScape client.
+	4. login, you don't need to start the MoparScape server!!
+	5. HAVE FUN!
+
+Laxika:
+
+Fletching:
+
+	1. Use knife in the log and use Bow(u) in the Bow String...
+
+Clan:
+
+	1. Clan commands:
+
+	::clan-invite # : invite person to clan
+	::clan-create # : create new clan
+	::clan-accept # : accept member to context clan
+	::clan-modshp # : set member mod rights
+	::clan-kick # : kick player off current context clan
+	::clan-mlist : list members of current context clan
+	::clan-list : list clans
+	::clan-mode : set clan mode
+	::clan-context : set current context clan

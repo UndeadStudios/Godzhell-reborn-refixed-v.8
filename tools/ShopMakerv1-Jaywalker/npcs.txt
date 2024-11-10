@@ -1,0 +1,3500 @@
+(0)Hans-0
+(1)Man-2
+(2)Man-2
+(3)Man-2
+(4)Woman-2
+(5)Woman-2
+(6)Woman-2
+(7)Farmer-7
+(8)Thief-16
+(9)Guard-21
+(10)Guard-22
+(11)Tramp-2
+(12)Barbarian-7
+(13)Wizard-9
+(14)Druid-33
+(15)Warrior woman-24
+(16)Man-2
+(17)Barbarian woman-8
+(18)Al-Kharid warrior-9
+(19)White Knight-36
+(20)Paladin-62
+(21)Hero-69
+(22)Forester-15
+(23)Knight of Ardougne-46
+(24)Man-2
+(25)Woman-2
+(26)Knight of Ardougne-46
+(27)Archer-37
+(28)Zoo keeper-0
+(29)Chuck-1
+(30)Barman-0
+(31)Priest-0
+(32)Guard-20
+(33)Door man-0
+(34)Watchman-33
+(35)Soldier-28
+(36)Wyson the gardener-0
+(37)Sigbert the Adventurer-0
+(38)Shipyard worker-11
+(39)Shipyard worker-11
+(40)Shark-1
+(41)Chicken-1
+(42)Sheep-0
+(43)Sheep-0
+(44)Duck-1
+(45)Duck-1
+(46)Duckling-1
+(47)Rat-1
+(48)Oomlie Bird-46
+(49)Hellhound-122
+(50)King black dragon-276
+(51)Baby dragon-48
+(52)Baby blue dragon-48
+(53)Red dragon-152
+(54)Black dragon-227
+(55)Blue dragon-111
+(56)Dryad-1
+(57)Fairy-0
+(58)Shadow spider-52
+(59)Giant spider-2
+(60)Giant spider-27
+(61)Spider-1
+(62)Jungle spider-44
+(63)Deadly red spider-34
+(64)Ice spider-61
+(65)Leprechaun-12
+(66)Gnome-1
+(67)Gnome-1
+(68)Gnome-1
+(69)Lizard man-22
+(70)Turael-0
+(71)Orc-20
+(72)Troll-69
+(73)Zombie-13
+(74)Zombie-18
+(75)Zombie-24
+(76)Zombie-25
+(77)Summoned Zombie-13
+(78)Giant bat-27
+(79)Death wing-83
+(80)Camel-0
+(81)Cow-2
+(82)Lesser demon-82
+(83)Greater demon-92
+(84)Black Demon-172
+(85)Golem-55
+(86)Giant rat-3
+(87)Giant rat-6
+(88)Dungeon rat-12
+(89)Unicorn-15
+(90)Skeleton-22
+(91)Skeleton-21
+(92)Skeleton-25
+(93)Skeleton-45
+(94)Skeleton Mage-16
+(95)Wolf-64
+(96)White wolf-25
+(97)White wolf-38
+(98)Dog-0
+(99)Guard dog-44
+(100)Goblin-2
+(101)Goblin-5
+(102)Goblin-13
+(103)Ghost-19
+(104)Ghost-19
+(105)Bear-21
+(106)Bear-19
+(107)Scorpion-14
+(108)Poison Scorpion-20
+(109)Pit Scorpion-28
+(110)Fire giant-86
+(111)Ice giant-53
+(112)Moss giant-42
+(113)Jogre-53
+(114)Ogre-53
+(115)Ogre-53
+(116)Cyclops-56
+(117)Hill giant-28
+(118)Dwarf-10
+(119)Chaos dwarf-48
+(120)Dwarf-20
+(121)Dwarf-9
+(122)Hobgoblin-28
+(123)Hobgoblin-42
+(124)Earth warrior-51
+(125)Ice warrior-57
+(126)Otherworldly being-64
+(127)Magic axe-42
+(128)Snake-5
+(129)Skavid-2
+(130)Yeti-58
+(131)Penguin-2
+(132)Monkey-3
+(133)Black unicorn-27
+(134)Poison spider-64
+(135)Mammoth-41
+(136)Terrorbird-28
+(137)Mounted terrorbird gnome-31
+(138)Mounted terrorbird gnome-49
+(139)Entrana Fire Bird-2
+(140)Souless-18
+(141)Big Wolf-73
+(142)Wolf-25
+(143)Jungle Wolf-64
+(144)King Scorpion-32
+(145)Ice warrior-57
+(146)Gull-0
+(147)Cormorant-0
+(148)Albatross-0
+(149)Gull-0
+(150)Gull-0
+(151)Fly trap-0
+(152)Tree-0
+(153)Butterfly-0
+(154)Butterfly-0
+(155)Butterfly-0
+(156)Butterfly-0
+(157)Butterfly-0
+(158)Shadow warrior-48
+(159)Gnome child-1
+(160)Gnome child-1
+(161)Gnome child-1
+(162)Gnome trainer-0
+(163)Gnome guard-23
+(164)Gnome guard-23
+(165)Gnome shop keeper-0
+(166)Gnome banker-0
+(167)Gnome baller-0
+(168)Gnome woman-1
+(169)Gnome woman-1
+(170)Gnome pilot-0
+(171)Brimstail-0
+(172)Dark wizard-20
+(173)Invrigar the Necromancer-20
+(174)Dark wizard-7
+(175)Mugger-6
+(176)Witch-25
+(177)Witch-25
+(178)Black Knight-33
+(179)Black Knight-33
+(180)Highwayman-5
+(181)Chaos druid-13
+(182)Pirate-23
+(183)Pirate-23
+(184)Pirate-26
+(185)Pirate-23
+(186)Thug-10
+(187)Rogue-15
+(188)Monk of Zamorak-22
+(189)Monk of Zamorak-17
+(190)Monk of Zamorak-45
+(191)Tribesman-32
+(192)Dark warrior-8
+(193)Chaos druid warrior-37
+(194)Necromancer-26
+(195)Bandit-22
+(196)Guard Bandit-22
+(197)Barbarian guard-8
+(198)Guild master-0
+(199)Gunthor the brave-29
+(200)Lord Daquarius-0
+(201)Jailer-47
+(202)Black Heather-34
+(203)Donny the lad-34
+(204)Speedy Keith-34
+(205)Salarin the twisted-70
+(206)Guard-10
+(207)Dwarf youngster-0
+(208)Dwarf Commander-0
+(209)Nulodion-0
+(210)Grail Maiden-0
+(211)Sir Percival-0
+(212)King Percival-0
+(213)Merlin-0
+(214)Peasant-0
+(215)Peasant-0
+(216)High Priest-0
+(217)Crone-0
+(218)Galahad-0
+(219)Fisherman-0
+(220)The Fisher King-0
+(221)Black Knight Titan-120
+(222)Monk-5
+(223)Brother Kojo-0
+(224)Dungeon rat-12
+(225)Bonzo-0
+(226)Sinister Stranger-0
+(227)Morris-0
+(228)Big Dave-0
+(229)Joshua-0
+(230)Grandpa Jack-0
+(231)Forester-0
+(232)Mountain Dwarf-0
+(233)Fishing spot-0
+(234)Fishing spot-0
+(235)Fishing spot-0
+(236)Fishing spot-0
+(237)Renegade Knight-37
+(238)Thrantax the Mighty-92
+(239)Sir Lancelot-0
+(240)Sir Gawain-0
+(241)Sir Kay-0
+(242)Sir Bedivere-0
+(243)Sir Tristram-0
+(244)Sir Pelleas-0
+(245)Sir Lucan-0
+(246)Sir Palomedes-0
+(247)Sir Mordred-39
+(248)Morgan Le Faye-0
+(249)Merlin-0
+(250)The Lady of the Lake-0
+(251)King Arthur-0
+(252)Beggar-0
+(253)Khazard Guard-23
+(254)Khazard Guard-23
+(255)Khazard Guard-23
+(256)Khazard Guard-23
+(257)Khazard Guard-25
+(258)General Khazard-112
+(259)Khazard barman-0
+(260)Kelvin-0
+(261)Joe-0
+(262)Fightslave-0
+(263)Hengrad-0
+(264)Lady Servil-0
+(265)Jeremy Servil-0
+(266)Jeremy Servil-0
+(267)Justin Servil-0
+(268)Local-0
+(269)Bouncer-137
+(270)Khazard Ogre-63
+(271)Khazard Scorpion-44
+(272)Lucien-14
+(273)Lucien-0
+(274)Guardian of Armadyl-45
+(275)Guardian of Armadyl-43
+(276)Winelda-0
+(277)Fire Warrior of Lesarkus-84
+(278)Cook-0
+(279)Brother Omad-0
+(280)Brother Cedric-0
+(281)Monk-3
+(282)Thief-14
+(283)Head Thief-26
+(284)Doric-0
+(285)Veronica-0
+(286)Professor Oddenstein-0
+(287)Ernest-0
+(288)Chicken-0
+(289)Councillor Halgrive-0
+(290)Doctor Orbon-0
+(291)Farmer Brumty-0
+(292)null-1
+(293)null-1
+(294)null-1
+(295)null-1
+(296)General Bentnoze-0
+(297)General Wartface-0
+(298)Goblin-5
+(299)Goblin-5
+(300)Sedridor-0
+(301)Twig-0
+(302)Hadley-0
+(303)Gerald-0
+(304)Almera-0
+(305)Hudon-0
+(306)Golrie-0
+(307)Hetty-0
+(308)Master fisher-0
+(309)Fishing spot-0
+(310)Fishing spot-0
+(311)Fishing spot-0
+(312)Fishing spot-0
+(313)Fishing spot-0
+(314)Fishing spot-0
+(315)Fishing spot-0
+(316)Fishing spot-0
+(317)Fishing spot-0
+(318)Fishing spot-0
+(319)Fishing spot-0
+(320)Fishing spot-0
+(321)Fishing spot-0
+(322)Fishing spot-0
+(323)Fishing spot-0
+(324)Fishing spot-0
+(325)Fishing spot-0
+(326)Fishing spot-0
+(327)Fishing spot-0
+(328)Fishing spot-0
+(329)Fishing spot-0
+(330)Fishing spot-0
+(331)Fishing spot-0
+(332)Fishing spot-0
+(333)Fishing spot-0
+(334)Fishing spot-0
+(335)null-1
+(336)Da Vinci-0
+(337)Da Vinci-0
+(338)Chancy-0
+(339)Chancy-0
+(340)Hops-0
+(341)Hops-0
+(342)Guidor's wife-0
+(343)Guidor-0
+(344)Guard-0
+(345)Guard-0
+(346)Guard-0
+(347)Mourner-11
+(348)Mourner-24
+(349)Kilron-0
+(350)Omart-0
+(351)Man-4
+(352)Woman-3
+(353)Woman-4
+(354)Woman-3
+(355)Child-0
+(356)Child-0
+(357)Mourner-18
+(358)Priest-0
+(359)Man-0
+(360)Woman-4
+(361)Woman-12
+(362)Woman-3
+(363)Woman-14
+(364)King Lathas-0
+(365)Paladin-59
+(366)Jerico-0
+(367)Chemist-0
+(368)Guard-0
+(369)Mourner-24
+(370)Mourner-13
+(371)Mourner-12
+(372)Mourner-0
+(373)Nurse Sarah-0
+(374)Ogre-63
+(375)Redbeard Frank-0
+(376)Captain Tobias-0
+(377)Seaman Lorris-0
+(378)Seaman Thresnor-0
+(379)Luthas-0
+(380)Customs officer-0
+(381)Captain Barnaby-0
+(382)Dwarf-0
+(383)Stankers-0
+(384)Barbarian guard-0
+(385)Kharid Scorpion-0
+(386)Kharid Scorpion-0
+(387)Kharid Scorpion-0
+(388)Seer-0
+(389)Thormac-0
+(390)Big fish-0
+(391)River troll-14
+(392)River troll-29
+(393)River troll-49
+(394)River troll-79
+(395)River troll-120
+(396)River troll-159
+(397)Cow-2
+(398)Legends Guard-0
+(399)Legends Guard-0
+(400)Radimus Erkle-0
+(401)Jungle Forester-0
+(402)Jungle Forester-0
+(403)Fishing spot-0
+(404)Fishing spot-0
+(405)Fishing spot-0
+(406)Fishing spot-0
+(407)Strange plant-0
+(408)Strange plant-0
+(409)Genie-0
+(410)Mysterious Old Man-0
+(411)Swarm-0
+(412)Bat-6
+(413)Rock Golem-14
+(414)Rock Golem-29
+(415)Rock Golem-49
+(416)Rock Golem-79
+(417)Rock Golem-120
+(418)Rock Golem-159
+(419)Zombie-14
+(420)Zombie-29
+(421)Zombie-49
+(422)Zombie-79
+(423)Zombie-120
+(424)Zombie-159
+(425)Shade-14
+(426)Shade-29
+(427)Shade-49
+(428)Shade-79
+(429)Shade-120
+(430)Shade-159
+(431)Watchman-14
+(432)Watchman-29
+(433)Watchman-49
+(434)Watchman-79
+(435)Watchman-120
+(436)Watchman-159
+(437)Cap'n Izzy No-Beard-0
+(438)Tree spirit-14
+(439)Tree spirit-29
+(440)Tree spirit-49
+(441)Tree spirit-79
+(442)Tree spirit-120
+(443)Tree spirit-159
+(444)Goblin-5
+(445)Goblin-5
+(446)Giant rat-3
+(447)Jail guard-26
+(448)Jail guard-26
+(449)Jail guard-26
+(450)Gull-0
+(451)Gull-0
+(452)Seth Groats-0
+(453)Suit of armour-19
+(454)Sanfew-0
+(455)Kaqemeex-0
+(456)Father Aereck-0
+(457)Restless ghost-0
+(458)Father Urhney-0
+(459)Skeleton-13
+(460)Wizard Frumscone-0
+(461)Magic Store owner-0
+(462)Wizard Distentor-0
+(463)Murphy-0
+(464)Murphy-0
+(465)Murphy-0
+(466)Murphy-0
+(467)Shark-0
+(468)Shark-0
+(469)King Bolren-0
+(470)Commander Montai-0
+(471)Bolkoy-0
+(472)Remsai-0
+(473)Elkoy-0
+(474)Elkoy-0
+(475)Khazard trooper-19
+(476)Khazard trooper-19
+(477)Khazard warlord-112
+(478)Khazard commander-48
+(479)Gnome troop-1
+(480)Gnome troop-1
+(481)Tracker gnome 1-0
+(482)Tracker gnome 2-0
+(483)Tracker gnome 3-0
+(484)Local Gnome-0
+(485)Local Gnome-0
+(486)Kalron-0
+(487)Observatory assistant-0
+(488)Observatory professor-0
+(489)Goblin guard-42
+(490)Observatory professor-0
+(491)Ghost-24
+(492)Spirit of Scorpius-0
+(493)Grave Scorpion-12
+(494)Banker-0
+(495)Banker-0
+(496)Banker-0
+(497)Banker-0
+(498)Banker-0
+(499)Banker-0
+(500)Mosol Rei-0
+(501)Spirit of Zadimus-0
+(502)Undead One-68
+(503)Undead One-61
+(504)Undead One-68
+(505)Undead One-73
+(506)Rashiliyia-0
+(507)Nazastarool-91
+(508)Nazastarool-68
+(509)Nazastarool-93
+(510)Hajedy-0
+(511)Vigroy-0
+(512)Kaleb Paramaya-0
+(513)Yohnus-0
+(514)Seravel-0
+(515)Yanni Salika-0
+(516)Obli-0
+(517)Fernahei-0
+(518)Captain Shanks-0
+(519)Bob-0
+(520)Shop keeper-0
+(521)Shop assistant-0
+(522)Shop keeper-0
+(523)Shop assistant-0
+(524)Shop keeper-0
+(525)Shop assistant-0
+(526)Shop keeper-0
+(527)Shop assistant-0
+(528)Shop keeper-0
+(529)Shop assistant-0
+(530)Shop keeper-0
+(531)Shop assistant-0
+(532)Shop keeper-0
+(533)Shop assistant-0
+(534)Fairy shop keeper-0
+(535)Fairy shop assistant-0
+(536)Valaine-0
+(537)Scavvo-0
+(538)Peksa-0
+(539)Silk trader-0
+(540)Gem trader-0
+(541)Zeke-0
+(542)Louie Legs-0
+(543)Karim-0
+(544)Ranael-0
+(545)Dommik-0
+(546)Zaff-0
+(547)Baraek-0
+(548)Thessalia-0
+(549)Horvik-0
+(550)Lowe-0
+(551)Shop keeper-0
+(552)Shop assistant-0
+(553)Aubury-0
+(554)Fancy dress shop owner-0
+(555)Shop keeper-0
+(556)Grum-0
+(557)Wydin-0
+(558)Gerrant-0
+(559)Brian-0
+(560)Jiminua-0
+(561)Shop keeper-0
+(562)Candle maker-0
+(563)Arhein-0
+(564)Jukat-0
+(565)Lunderwin-0
+(566)Irksol-0
+(567)Fairy-0
+(568)Zambo-0
+(569)Silver merchant-0
+(570)Gem merchant-0
+(571)Baker-0
+(572)Spice seller-0
+(573)Fur trader-0
+(574)Silk merchant-0
+(575)Hickton-0
+(576)Harry-0
+(577)Cassie-0
+(578)Frincos-0
+(579)Drogo dwarf-0
+(580)Flynn-0
+(581)Wayne-0
+(582)Dwarf-0
+(583)Betty-0
+(584)Herquin-0
+(585)Rommik-0
+(586)Gaius-0
+(587)Jatix-0
+(588)Davon-0
+(589)Zenesha-0
+(590)Aemad-0
+(591)Kortan-0
+(592)Roachey-0
+(593)Frenita-0
+(594)Nurmof-0
+(595)Tea seller-0
+(596)Fat Tony-0
+(597)Noterazzo-0
+(598)Hairdresser-0
+(599)Make-over mage-0
+(600)Hudo-0
+(601)Rometti-0
+(602)Gulluck-0
+(603)Heckel Funch-0
+(604)Thurgo-0
+(605)Sir Vyvin-0
+(606)Squire-0
+(607)Gunnjorn-0
+(608)Sir Amik Varze-0
+(609)Fortress Guard-20
+(610)Black Knight-0
+(611)Witch-0
+(612)Greldo-0
+(613)Digsite workman-0
+(614)Digsite workman-0
+(615)Student-0
+(616)Student-0
+(617)Student-0
+(618)Examiner-0
+(619)Archaeological expert-0
+(620)Panning guide-0
+(621)Gnome baller-0
+(622)Gnome baller-0
+(623)Gnome baller-0
+(624)Gnome baller-0
+(625)Gnome baller-0
+(626)Gnome baller-0
+(627)Gnome baller-0
+(628)Gnome baller-0
+(629)Gnome baller-0
+(630)Gnome baller-0
+(631)Gnome baller-0
+(632)Gnome baller-0
+(633)Gnome winger-0
+(634)Gnome winger-0
+(635)Gnome ball referee-0
+(636)Cheerleader-0
+(637)Juliet-0
+(638)Apothecary-0
+(639)Romeo-0
+(640)Father Lawrence-0
+(641)Tramp-0
+(642)Katrine-0
+(643)Weaponsmaster-23
+(644)Straven-23
+(645)Jonny the beard-2
+(646)Curator-0
+(647)null-1
+(648)King Roald-0
+(649)Archer-0
+(650)Warrior-0
+(651)Monk-0
+(652)Wizard-0
+(653)Fairy Queen-0
+(654)Shamus-0
+(655)Tree spirit-101
+(656)Cave monk-0
+(657)Monk of Entrana-0
+(658)Monk of Entrana-0
+(659)Party Pete-0
+(660)Knight-0
+(661)Megan-0
+(662)Lucy-0
+(663)Man-0
+(664)Dimintheis-0
+(665)Boot-0
+(666)Caleb-0
+(667)Chronozon-170
+(668)Johnathon-0
+(669)Hazelmere-0
+(670)King Narnode Shareen-0
+(671)Glough-0
+(672)Anita-0
+(673)Charlie-0
+(674)Foreman-23
+(675)Shipyard worker-0
+(676)Femi-0
+(677)Black Demon-172
+(678)Guard-37
+(679)Ranging Guild Doorman-0
+(680)Leatherworker-0
+(681)Weapon poison salesman-0
+(682)Armour salesman-0
+(683)Bow and Arrow salesman-0
+(684)Tower Advisor-0
+(685)Tower Advisor-0
+(686)Tower Advisor-0
+(687)Tower Advisor-0
+(688)Tower Archer-19
+(689)Tower Archer-34
+(690)Tower Archer-49
+(691)Tower Archer-64
+(692)Tribal Weapon Salesman-0
+(693)Competition Judge-0
+(694)Ticket Merchant-0
+(695)Bailey-0
+(696)Caroline-0
+(697)Kennith-0
+(698)Holgart-0
+(699)Holgart-0
+(700)Holgart-0
+(701)Kent-0
+(702)Fisherman-0
+(703)Fisherman-0
+(704)Fisherman-0
+(705)Fisherman-0
+(706)Wizard Mizgog-0
+(707)Wizard Grayzag-41
+(708)Imp-2
+(709)Imp-3
+(710)Alrena-0
+(711)Bravek-0
+(712)Carla-0
+(713)Clerk-0
+(714)Edmond-0
+(715)null-1
+(716)Head mourner-0
+(717)Mourner-0
+(718)Mourner-0
+(719)Mourner-0
+(720)Recruiter-0
+(721)Ted Rehnison-0
+(722)Martha Rehnison-0
+(723)Billy Rehnison-0
+(724)Milli Rehnison-0
+(725)Jethick-0
+(726)Man-0
+(727)Man-0
+(728)Man-0
+(729)Man-0
+(730)Man-0
+(731)Bartender-0
+(732)Bartender-0
+(733)Bartender-0
+(734)Bartender-0
+(735)Bartender-0
+(736)Emily-0
+(737)Bartender-0
+(738)Bartender-0
+(739)Bartender-0
+(740)Trufitus-0
+(741)Duke Horacio-0
+(742)Elvarg-83
+(743)Ned-0
+(744)Klarense-0
+(745)Wormbrain-2
+(746)Oracle-0
+(747)Oziach-0
+(748)Giant rat-3
+(749)Ghost-19
+(750)Skeleton-22
+(751)Zombie-24
+(752)Lesser demon-82
+(753)Melzar the mad-43
+(754)Cabin Boy Jenkins-0
+(755)Morgan-0
+(756)Dr Harlow-0
+(757)Count Draynor-34
+(758)Fred the Farmer-0
+(759)Gertrude's cat-0
+(760)Kitten-0
+(761)Kitten-0
+(762)Kitten-0
+(763)Kitten-0
+(764)Kitten-0
+(765)Kitten-0
+(766)Kitten-0
+(767)Crate-0
+(768)Cat-0
+(769)Cat-0
+(770)Cat-0
+(771)Cat-0
+(772)Cat-0
+(773)Cat-0
+(774)Overgrown cat-0
+(775)Overgrown cat-0
+(776)Overgrown cat-0
+(777)Overgrown cat-0
+(778)Overgrown cat-0
+(779)Overgrown cat-0
+(780)Gertrude-0
+(781)Shilop-0
+(782)Philop-0
+(783)Wilough-0
+(784)Kanel-0
+(785)Civilian-0
+(786)Civilian-0
+(787)Civilian-0
+(788)Garv-0
+(789)Grubor-0
+(790)Trobert-0
+(791)Seth-0
+(792)Grip-22
+(793)Alfonse the waiter-0
+(794)Charlie the cook-0
+(795)Ice Queen-111
+(796)Achietties-0
+(797)Helemos-0
+(798)Velrak the explorer-0
+(799)Pirate Guard-19
+(800)Fishing spot-0
+(801)Abbot Langley-0
+(802)Brother Jered-0
+(803)Monk-5
+(804)Tanner-0
+(805)Master Crafter-0
+(806)Donovan the Family Handyman-0
+(807)Pierre-0
+(808)Hobbes-0
+(809)Louisa-0
+(810)Mary-0
+(811)Stanford-0
+(812)Guard-0
+(813)Gossip-0
+(814)Anna-0
+(815)Bob-0
+(816)Carol-0
+(817)David-0
+(818)Elizabeth-0
+(819)Frank-0
+(820)Poison Salesman-0
+(821)Sinclair Guard dog-1
+(822)Ana-0
+(823)Ana-0
+(824)Female slave-0
+(825)Male slave-0
+(826)Escaping slave-0
+(827)Rowdy slave-10
+(828)Mercenary-45
+(829)Mercenary-45
+(830)Mercenary Captain-47
+(831)Captain Siad-0
+(832)Al Shabim-0
+(833)Bedabin Nomad-0
+(834)Bedabin Nomad Guard-0
+(835)Irena-0
+(836)Shantay-0
+(837)Shantay Guard-22
+(838)Shantay Guard-22
+(839)Desert Wolf-27
+(840)Ugthanki-42
+(841)Mine cart driver-0
+(842)Rowdy Guard-43
+(843)RPDT employee-0
+(844)Wizard Cromperty-0
+(845)Horacio-0
+(846)Kangai Mau-0
+(847)Head chef-0
+(848)Blurberry-0
+(849)Barman-0
+(850)Aluft Gianne-0
+(851)Gnome Waiter-0
+(852)Ogre chieftain-81
+(853)Og-0
+(854)Grew-0
+(855)Toban-0
+(856)Gorad-68
+(857)Ogre guard-83
+(858)Ogre guard-83
+(859)Ogre guard-83
+(860)Ogre guard-83
+(861)Ogre guard-83
+(862)City guard-83
+(863)Scared skavid-0
+(864)Mad skavid-0
+(865)Skavid-0
+(866)Skavid-0
+(867)Skavid-0
+(868)Skavid-0
+(869)Skavid-0
+(870)Enclave guard-83
+(871)Ogre shaman-113
+(872)Watchtower wizard-0
+(873)Ogre trader-70
+(874)Ogre merchant-70
+(875)Ogre trader-70
+(876)Ogre trader-70
+(877)Tower guard-28
+(878)Colonel Radick-38
+(879)Delrith-27
+(880)Weakened Delrith-1
+(881)Traiborn-0
+(882)Gypsy-0
+(883)Sir Prysin-0
+(884)Captain Rovin-0
+(885)Ceril Carnillean-0
+(886)Claus the chef-0
+(887)Guard-0
+(888)Philipe Carnillean-0
+(889)Henryeta Carnillean-0
+(890)Butler Jones-0
+(891)Alomone-13
+(892)Hazeel-296
+(893)Clivet-13
+(894)Hazeel Cultist-13
+(895)Boy-0
+(896)Nora T. Hagg-0
+(897)Witches experiment-19
+(898)Witches experiment second form-30
+(899)Witches experiment third form-42
+(900)Witches experiment fourth form-53
+(901)Mouse-0
+(902)Gundai-0
+(903)Lundail-0
+(904)Chamber guardian-0
+(905)Kolodion-0
+(906)Kolodion-0
+(907)Kolodion-0
+(908)Kolodion-0
+(909)Kolodion-0
+(910)Kolodion-0
+(911)Kolodion-112
+(912)Battle mage-54
+(913)Battle mage-54
+(914)Battle mage-54
+(915)Leela-0
+(916)Joe-0
+(917)Jail guard-26
+(918)Ned-0
+(919)Lady Keli-0
+(920)Prince Ali-0
+(921)Prince Ali-0
+(922)Aggie-0
+(923)Hassan-0
+(924)Osman-0
+(925)Border Guard-0
+(926)Border Guard-0
+(927)Fishing spot-0
+(928)Gujuo-0
+(929)Ungadulu-70
+(930)Ungadulu-169
+(931)Jungle Savage-90
+(932)Fionella-0
+(933)Siegfried Erkle-0
+(934)Nezikchened-187
+(935)Viyeldi-79
+(936)San Tojalon-106
+(937)Irvig Senay-100
+(938)Ranalph Devere-92
+(939)Boulder-0
+(940)Echned Zekin-187
+(941)Green dragon-79
+(942)Master Chef-0
+(943)Survival Expert-0
+(944)Combat Instructor-146
+(945)RuneScape Guide-0
+(946)Magic Instructor-0
+(947)Financial Advisor-0
+(948)Mining Instructor-0
+(949)Quest Guide-0
+(950)Giant rat-3
+(951)Chicken-3
+(952)Fishing spot-0
+(953)Banker-0
+(954)Brother Brace-0
+(955)Cow-2
+(956)Drunken Dwarf-0
+(957)Mubariz-0
+(958)Fadli-0
+(959)A'abla-0
+(960)Sabreen-0
+(961)Tafani-0
+(962)Jaraah-0
+(963)Zahwa-0
+(964)Ima-0
+(965)Sabeil-0
+(966)Jadid-0
+(967)Dalal-0
+(968)Afrah-0
+(969)Jeed-0
+(970)Diango-0
+(971)Chadwell-0
+(972)Koftik-0
+(973)Koftik-0
+(974)Koftik-0
+(975)Koftik-0
+(976)Koftik-0
+(977)Blessed spider-39
+(978)Blessed Giant rat-9
+(979)Slave-0
+(980)Slave-0
+(981)Slave-0
+(982)Slave-0
+(983)Slave-0
+(984)Slave-0
+(985)Slave-0
+(986)Boulder-0
+(987)Unicorn-15
+(988)Sir Jerro-62
+(989)Sir Carl-62
+(990)Sir Harry-62
+(991)Half-Souless-1
+(992)Kardia-0
+(993)Witch's cat-0
+(994)Niloof-0
+(995)Klank-0
+(996)Kamen-0
+(997)Kalrag-89
+(998)Othainian-91
+(999)Doomion-91
+(1000)Holthion-91
+(1001)Dark mage-0
+(1002)Iban disciple-13
+(1003)Lord Iban-0
+(1004)Spider-1
+(1005)Giant bat-0
+(1006)Sea slug-0
+(1007)Zamorak Wizard-65
+(1008)Hamid-0
+(1009)Poison spider-31
+(1010)Rantz-0
+(1011)Fycie-0
+(1012)Bugs-0
+(1013)Swamp toad-0
+(1014)Bloated Toad-0
+(1015)Chompy bird-6
+(1016)Chompy bird-0
+(1017)Chicken-1
+(1018)Rooster-3
+(1019)Fire elemental-35
+(1020)Earth elemental-35
+(1021)Air elemental-34
+(1022)Water elemental-34
+(1023)Earth elemental-35
+(1024)Man-24
+(1025)Man-24
+(1026)Man-24
+(1027)Woman-24
+(1028)Woman-24
+(1029)Woman-24
+(1030)Wolfman-88
+(1031)Wolfman-88
+(1032)Wolfman-88
+(1033)Wolfwoman-88
+(1034)Wolfwoman-88
+(1035)Wolfwoman-88
+(1036)Banker-0
+(1037)Man-0
+(1038)Rufus-0
+(1039)Barker-0
+(1040)Fidelio-0
+(1041)Sbott-0
+(1042)Roavar-0
+(1043)Will o' the wisp-0
+(1044)Monk of Zamorak-22
+(1045)Monk of Zamorak-17
+(1046)Monk of Zamorak-30
+(1047)Temple guardian-30
+(1048)Drezel-0
+(1049)Drezel-0
+(1050)Filliman Tarlock-0
+(1051)Nature Spirit-0
+(1052)Ghast-0
+(1053)Ghast-30
+(1054)Ulizius-0
+(1055)Pirate Jackie the Fruit-0
+(1056)Mime-0
+(1057)Strange watcher-0
+(1058)Strange watcher-0
+(1059)Strange watcher-0
+(1060)Denulth-0
+(1061)Sergeant-0
+(1062)Sergeant-0
+(1063)Soldier-0
+(1064)Soldier-0
+(1065)Soldier-48
+(1066)Soldier-0
+(1067)Soldier-0
+(1068)Soldier-0
+(1069)Soldier-0
+(1070)Saba-0
+(1071)Tenzing-0
+(1072)Eadburg-4
+(1073)Archer-42
+(1074)Archer-42
+(1075)Archer-42
+(1076)Guard-37
+(1077)Guard-37
+(1078)Harold-0
+(1079)Tostig-0
+(1080)Eohric-0
+(1081)Servant-5
+(1082)Dunstan-0
+(1083)Wistan-0
+(1084)Breoca-5
+(1085)Ocga-5
+(1086)Man-2
+(1087)Penda-5
+(1088)Hygd-4
+(1089)Ceolburg-4
+(1090)Hild-0
+(1091)Bob-0
+(1092)White Knight-36
+(1093)Billy-0
+(1094)Mountain Goat-0
+(1095)Rock-111
+(1096)Stick-104
+(1097)Pee Hat-91
+(1098)Kraka-91
+(1099)Dung-0
+(1100)Ash-0
+(1101)Thrower Troll-67
+(1102)Thrower Troll-67
+(1103)Thrower Troll-67
+(1104)Thrower Troll-67
+(1105)Thrower Troll-67
+(1106)Mountain Troll-69
+(1107)Mountain Troll-69
+(1108)Mountain Troll-69
+(1109)Mountain Troll-69
+(1110)Mountain Troll-69
+(1111)Mountain Troll-69
+(1112)Mountain Troll-69
+(1113)Eadgar-0
+(1114)Godric-0
+(1115)Troll General-113
+(1116)Troll General-113
+(1117)Troll General-113
+(1118)Troll Spectator-71
+(1119)Troll Spectator-71
+(1120)Troll Spectator-71
+(1121)Troll Spectator-71
+(1122)Troll Spectator-71
+(1123)Troll Spectator-71
+(1124)Troll Spectator-71
+(1125)Dad-101
+(1126)Twig-71
+(1127)Berry-71
+(1128)Twig-71
+(1129)Berry-71
+(1130)Thrower Troll-68
+(1131)Thrower Troll-68
+(1132)Thrower Troll-68
+(1133)Thrower Troll-68
+(1134)Thrower Troll-68
+(1135)Cook-0
+(1136)Cook-0
+(1137)Cook-0
+(1138)Mountain Troll-71
+(1139)Mushroom-0
+(1140)Mountain Goat-0
+(1141)Mountain Goat-0
+(1142)Guard-0
+(1143)Guard-0
+(1144)Guard-0
+(1145)Guard-0
+(1146)Guard-0
+(1147)Guard-0
+(1148)Guard-0
+(1149)Guard-0
+(1150)Guard-0
+(1151)Burntmeat-0
+(1152)Weird Old Man-0
+(1153)Kalphite Worker-28
+(1154)Kalphite Soldier-85
+(1155)Kalphite Guardian-141
+(1156)Kalphite Worker-28
+(1157)Kalphite Guardian-141
+(1158)Kalphite Queen-333
+(1159)Kalphite Queen-333
+(1160)Kalphite Queen-333
+(1161)Kalphite Larva-0
+(1162)Timfraku-0
+(1163)Tiadeche-0
+(1164)Tiadeche-0
+(1165)Tinsay-0
+(1166)Tinsay-0
+(1167)Tamayu-0
+(1168)Tamayu-0
+(1169)Tamayu-0
+(1170)Tamayu-0
+(1171)Lubufu-0
+(1172)The Shaikahan-83
+(1173)The Shaikahan-83
+(1174)Fishing spot-0
+(1175)Fishing spot-0
+(1176)Fishing spot-0
+(1177)Fishing spot-0
+(1178)Fishing spot-0
+(1179)Gull-0
+(1180)Cormorant-0
+(1181)Albatross-0
+(1182)Lord Iorwerth-0
+(1183)Elf warrior-90
+(1184)Elf warrior-108
+(1185)Elven city guard-0
+(1186)Idris-0
+(1187)Essyllt-0
+(1188)Morvran-0
+(1189)Fishing spot-0
+(1190)Fishing spot-0
+(1191)Fishing spot-0
+(1192)Rabbit-2
+(1193)Rabbit-2
+(1194)Rabbit-2
+(1195)Grizzly bear-42
+(1196)Grizzly bear cub-33
+(1197)Grizzly bear cub-36
+(1198)Dire Wolf-88
+(1199)Elf Tracker-0
+(1200)Tyras guard-110
+(1201)Elf warrior-0
+(1202)Arianwyn-0
+(1203)Tyras guard-110
+(1204)Tyras guard-110
+(1205)Tyras guard-0
+(1206)Tyras guard-0
+(1207)General Hining-0
+(1208)Quartermaster-0
+(1209)Koftik-0
+(1210)Kings messenger-0
+(1211)Will o' the wisp-0
+(1212)Will o' the wisp-0
+(1213)Tegid-0
+(1214)Thistle-0
+(1215)Parrots-0
+(1216)Parroty Pete-0
+(1217)Gardener-4
+(1218)Ghoul-42
+(1219)Leech-52
+(1220)Vampire-72
+(1221)Spider-0
+(1222)Mist-1
+(1223)Vampire-61
+(1224)Vampyric hound-1
+(1225)Vampire-25
+(1226)Tree-0
+(1227)Myre Blamish Snail-9
+(1228)Blood Blamish Snail-20
+(1229)Ochre Blamish Snail-10
+(1230)Bruise Blamish Snail-20
+(1231)Bark Blamish Snail-15
+(1232)Myre Blamish Snail-10
+(1233)Blood Blamish Snail-20
+(1234)Ochre Blamish Snail-15
+(1235)Bruise Blamish Snail-20
+(1236)Fishing spot-0
+(1237)Fishing spot-0
+(1238)Fishing spot-0
+(1239)Bedabin Nomad Fighter-56
+(1240)Loar Shadow-40
+(1241)Loar Shade-40
+(1242)Shade Spirit-0
+(1243)Phrin Shadow-60
+(1244)Phrin Shade-60
+(1245)Riyl Shadow-80
+(1246)Riyl Shade-80
+(1247)Asyn Shadow-100
+(1248)Asyn Shade-100
+(1249)Fiyr Shadow-120
+(1250)Fiyr Shade-120
+(1251)Afflicted(Ulsquire)-0
+(1252)Ulsquire Shauncy-0
+(1253)Afflicted(Razmire)-0
+(1254)Razmire Keelgan-0
+(1255)Mort'ton Local-0
+(1256)Mort'ton Local-0
+(1257)Afflicted-37
+(1258)Afflicted-34
+(1259)Mort'ton local-0
+(1260)Mort'ton local-0
+(1261)Afflicted-32
+(1262)Afflicted-30
+(1263)Wizard-0
+(1264)Saradomin Wizard-108
+(1265)Rock Crab-13
+(1266)Rocks-0
+(1267)Rock Crab-13
+(1268)Rocks-0
+(1269)Olaf the Bard-0
+(1270)Lalli-0
+(1271)Golden sheep-0
+(1272)Golden sheep-0
+(1273)Fossegrimen-0
+(1274)Ospak-0
+(1275)Styrmir-0
+(1276)Torbrund-0
+(1277)Fridgeir-0
+(1278)Longhall Bouncer-0
+(1279)The Draugen-69
+(1280)Butterfly-0
+(1281)Sigli the Huntsman-0
+(1282)Sigmund The Merchant-0
+(1283)Swensen the Navigator-0
+(1284)Bjorn-0
+(1285)Eldgrim-0
+(1286)Manni the Reveller-0
+(1287)Council workman-0
+(1288)Peer the Seer-0
+(1289)Thorvald the Warrior-0
+(1290)Koschei the deathless-0
+(1291)Koschei the deathless-0
+(1292)Koschei the deathless-0
+(1293)Koschei the deathless-0
+(1294)Brundt the Chieftain-0
+(1295)Askeladden-0
+(1296)Guard-0
+(1297)Guard-0
+(1298)Town Guard-0
+(1299)Town Guard-0
+(1300)Thora the Barkeep-0
+(1301)Yrsa-0
+(1302)Fisherman-0
+(1303)Skulgrimen-0
+(1304)Sailor-0
+(1305)Agnar-0
+(1306)Freidir-48
+(1307)Borrokar-48
+(1308)Lanzig-48
+(1309)Pontak-48
+(1310)Freygerd-48
+(1311)Lensa-48
+(1312)Jennella-48
+(1313)Sassilik-48
+(1314)Inga-48
+(1315)Fish monger-0
+(1316)Fur trader-0
+(1317)Market Guard-48
+(1318)Warrior-48
+(1319)Fox-0
+(1320)Bunny-2
+(1321)Bunny-2
+(1322)Gull-0
+(1323)Gull-0
+(1324)Gull-0
+(1325)Gull-0
+(1326)Bear Cub-15
+(1327)Bear Cub-15
+(1328)Unicorn Foal-12
+(1329)Black unicorn Foal-22
+(1330)Wolf-64
+(1331)Fishing spot-0
+(1332)Fishing spot-0
+(1333)Fishing spot-0
+(1334)Jossik-0
+(1335)Jossik-0
+(1336)Larrissa-0
+(1337)Larrissa-0
+(1338)Dagannoth-74
+(1339)Dagannoth-74
+(1340)Dagannoth-74
+(1341)Dagannoth-92
+(1342)Dagannoth-92
+(1343)Dagannoth-92
+(1344)Dagannoth-100
+(1345)Dagannoth-100
+(1346)Dagannoth-100
+(1347)Dagannoth-100
+(1348)Dagannoth mother-100
+(1349)Dagannoth mother-100
+(1350)Dagannoth mother-100
+(1351)Dagannoth mother-100
+(1352)Dagannoth mother-100
+(1353)Dagannoth mother-100
+(1354)Dagannoth mother-100
+(1355)Dagannoth mother-100
+(1356)Dagannoth mother-100
+(1357)Sam-0
+(1358)Rachael-0
+(1359)Queen Sigrid-0
+(1360)Banker-0
+(1361)Arnor-1
+(1362)Haming-1
+(1363)Moldof-1
+(1364)Helga-1
+(1365)Matilda-1
+(1366)Ashild-1
+(1367)Skraeling-2
+(1368)Skraeling-2
+(1369)Fishmonger-0
+(1370)Greengrocer-0
+(1371)Prince Brand-0
+(1372)Princess Astrid-0
+(1373)King Vargas-0
+(1374)Guard-0
+(1375)Advisor Ghrim-0
+(1376)Derrik-0
+(1377)Farmer-0
+(1378)Flower Girl-0
+(1379)Ragnar-1
+(1380)Einar-1
+(1381)Alrik-1
+(1382)Thorhild-1
+(1383)Halla-1
+(1384)Yrsa-1
+(1385)Sailor-0
+(1386)Rannveig-2
+(1387)Thora-2
+(1388)Valgerd-2
+(1389)Skraeling-2
+(1390)Broddi-2
+(1391)Skraeling-2
+(1392)Ragnvald-2
+(1393)Fishmonger-0
+(1394)Greengrocer-0
+(1395)Lumberjack Leif-0
+(1396)Miner Magnus-0
+(1397)Fisherman Frodi-0
+(1398)Gardener Gunnhild-0
+(1399)Fishing spot-0
+(1400)Gull-0
+(1401)Chicken-1
+(1402)Chicken-1
+(1403)Rooster-2
+(1404)Rabbit-2
+(1405)Fishing spot-0
+(1406)Fishing spot-0
+(1407)Daero-0
+(1408)Waydar-0
+(1409)Waydar-0
+(1410)Waydar-0
+(1411)Garkor-0
+(1412)Garkor-0
+(1413)Lumo-0
+(1414)Lumo-0
+(1415)Bunkdo-0
+(1416)Bunkdo-0
+(1417)Carado-0
+(1418)Carado-0
+(1419)Lumdo-0
+(1420)Karam-0
+(1421)Karam-0
+(1422)Karam-0
+(1423)Bunkwicket-0
+(1424)Waymottin-0
+(1425)Zooknock-0
+(1426)Zooknock-0
+(1427)G.L.O. Caranock-0
+(1428)G.L.O. Caranock-0
+(1429)Dugopul-0
+(1430)Salenab-0
+(1431)Trefaji-0
+(1432)Aberab-0
+(1433)Solihib-0
+(1434)Daga-0
+(1435)Tutab-0
+(1436)Ifaba-0
+(1437)Hamab-0
+(1438)Hafuba-0
+(1439)Denadu-0
+(1440)Lofu-0
+(1441)Kruk-149
+(1442)Duke-149
+(1443)Oipuis-149
+(1444)Uyoro-149
+(1445)Ouhai-149
+(1446)Uodai-149
+(1447)Padulah-149
+(1448)Awowogei-0
+(1449)Uwogo-0
+(1450)Muruwoi-0
+(1451)Sleeping Monkey-0
+(1452)Monkey Child-0
+(1453)The Monkey's Uncle-0
+(1454)The Monkey's Aunt-0
+(1455)Monkey Guard-149
+(1456)Monkey Archer-86
+(1457)Monkey Archer-86
+(1458)Monkey Archer-86
+(1459)Monkey Guard-167
+(1460)Monkey Guard-167
+(1461)Elder Guard-0
+(1462)Elder Guard-0
+(1463)Monkey-3
+(1464)Monkey-3
+(1465)Monkey Zombie-98
+(1466)Monkey Zombie-129
+(1467)Monkey Zombie-82
+(1468)Bonzara-0
+(1469)Monkey Minder-0
+(1470)Foreman-0
+(1471)Skeleton-142
+(1472)Jungle Demon-195
+(1473)Spider-1
+(1474)Spider-1
+(1475)Bird-11
+(1476)Bird-5
+(1477)Scorpion-38
+(1478)Jungle spider-37
+(1479)Snake-24
+(1480)Small ninja monkey-1
+(1481)Medium ninja monkey-1
+(1482)Gorilla-1
+(1483)Bearded gorilla-1
+(1484)Ancient monkey-1
+(1485)Small zombie monkey-1
+(1486)Large zombie monkey-1
+(1487)Monkey-1
+(1488)Monkey-1
+(1489)Monkey-1
+(1490)Monkey-1
+(1491)Monkey-1
+(1492)Monkey-1
+(1493)Monkey-1
+(1494)Monkey-1
+(1495)Monkey-1
+(1496)Monkey-1
+(1497)Monkey-1
+(1498)Monkey-1
+(1499)Monkey-1
+(1500)Monkey-1
+(1501)Monkey-1
+(1502)Monkey-35
+(1503)Monkey-61
+(1504)Monkey-35
+(1505)Monkey-35
+(1506)Monkey-35
+(1507)Monkey-35
+(1508)Monkey-35
+(1509)Monkey-35
+(1510)Monkey-1
+(1511)Gnome-9
+(1512)Gnome-1
+(1513)Gnome-1
+(1514)Ape-1
+(1515)Skeleton-18
+(1516)Demon-1
+(1517)Gnome-1
+(1518)Gnome-1
+(1519)Gnome-1
+(1520)Gnome-1
+(1521)Bird-1
+(1522)Bird-1
+(1523)King Scorpion-1
+(1524)Jungle spider-1
+(1525)Weird snake.-1
+(1526)Lanthus-0
+(1527)Mine cart-0
+(1528)Zealot-0
+(1529)Sheep-1
+(1530)Rabbit-1
+(1531)Imp-1
+(1532)Barricade-0
+(1533)Barricade-0
+(1534)Barricade-0
+(1535)Barricade-0
+(1536)Possessed Pickaxe-50
+(1537)Bronze pickaxe-0
+(1538)Corpse-0
+(1539)Skeletal miner-42
+(1540)Treus Dayth-95
+(1541)Ghost-99
+(1542)Loading crane-0
+(1543)Innocent looking key-0
+(1544)Mine cart-0
+(1545)Mine cart-0
+(1546)Mine cart-0
+(1547)Mine cart-0
+(1548)Mine cart-0
+(1549)Ghost-29
+(1550)Haze-0
+(1551)Mischievous Ghost-0
+(1552)Santa-0
+(1553)Ug-0
+(1554)Aga-0
+(1555)Arrg-113
+(1556)Arrg-113
+(1557)Ug-1
+(1558)Ice wolf-96
+(1559)Ice wolf-132
+(1560)Ice Troll-124
+(1561)Ice Troll-123
+(1562)Ice Troll-120
+(1563)Ice Troll-121
+(1564)Ice Troll-120
+(1565)Ice Troll-120
+(1566)Ice Troll-121
+(1567)Cyreg Paddlehorn-0
+(1568)Curpile Fyod-0
+(1569)Veliaf Hurtz-0
+(1570)Sani Piliu-0
+(1571)Harold Evans-0
+(1572)Radigad Ponfit-0
+(1573)Polmafi Ferdygris-0
+(1574)Ivan Strom-0
+(1575)Skeleton Hellhound-97
+(1576)Stranger-0
+(1577)Vanstrom Klause-0
+(1578)Mist-0
+(1579)Vanstrom Klause-0
+(1580)Vanstrom Klause-0
+(1581)Vanstrom Klause-0
+(1582)Fire giant-86
+(1583)Fire giant-86
+(1584)Fire giant-86
+(1585)Fire giant-86
+(1586)Fire giant-86
+(1587)Moss giant-42
+(1588)Moss giant-42
+(1589)Baby red dragon-65
+(1590)Bronze dragon-131
+(1591)Iron dragon-189
+(1592)Steel dragon-246
+(1593)Wild dog-63
+(1594)Wild dog-63
+(1595)Saniboch-0
+(1596)Mazchna-0
+(1597)Vannaka-0
+(1598)Chaeldar-0
+(1599)Duradel-0
+(1600)Cave crawler-23
+(1601)Cave crawler-23
+(1602)Cave crawler-23
+(1603)Cave crawler-23
+(1604)Aberrant specter-96
+(1605)Aberrant specter-96
+(1606)Aberrant specter-96
+(1607)Aberrant specter-96
+(1608)Kurask-106
+(1609)Kurask-106
+(1610)Gargoyle-111
+(1611)Gargoyle-111
+(1612)Banshee-23
+(1613)Nechryael-115
+(1614)Death spawn-46
+(1615)Abyssal demon-124
+(1616)Basilisk-61
+(1617)Basilisk-61
+(1618)Bloodveld-76
+(1619)Bloodveld-76
+(1620)Cockatrice-37
+(1621)Cockatrice-37
+(1622)Rockslug-29
+(1623)Rockslug-29
+(1624)Dustdevil-93
+(1625)Smokedevil-93
+(1626)Turoth-86
+(1627)Turoth-89
+(1628)Turoth-87
+(1629)Turoth-85
+(1630)Turoth-83
+(1631)Turoth-88
+(1632)Turoth-88
+(1633)Pyrefiend-43
+(1634)Pyrefiend-43
+(1635)Pyrefiend-43
+(1636)Pyrefiend-43
+(1637)Jelly-78
+(1638)Jelly-78
+(1639)Jelly-78
+(1640)Jelly-78
+(1641)Jelly-78
+(1642)Jelly-78
+(1643)Infernal Mage-66
+(1644)Infernal Mage-66
+(1645)Infernal Mage-66
+(1646)Infernal Mage-66
+(1647)Infernal Mage-66
+(1648)Crawling Hand-8
+(1649)Crawling Hand-8
+(1650)Crawling Hand-7
+(1651)Crawling Hand-8
+(1652)Crawling Hand-8
+(1653)Crawling Hand-12
+(1654)Crawling Hand-12
+(1655)Crawling Hand-11
+(1656)Crawling Hand-12
+(1657)Crawling Hand-12
+(1658)Robe Store owner-0
+(1659)Skullball-0
+(1660)Skullball Boss-0
+(1661)Agility Boss-0
+(1662)Skullball Trainer-0
+(1663)Agility Trainer-0
+(1664)Agility Trainer-0
+(1665)Werewolf-0
+(1666)null-1
+(1667)null-1
+(1668)null-1
+(1669)null-1
+(1670)Dr Fenkenstrain-0
+(1671)null-1
+(1672)null-1
+(1673)Fenkenstrain's Monster-0
+(1674)Lord Rologarth-0
+(1675)Gardener Ghost-0
+(1676)Experiment-51
+(1677)Experiment-25
+(1678)Experiment-25
+(1679)Eluned-0
+(1680)Islwyn-0
+(1681)Moss giant-84
+(1682)Golrie-0
+(1683)Velorina-0
+(1684)Necrovarus-0
+(1685)Gravingas-0
+(1686)Ghost Disciple-0
+(1687)null-1
+(1688)Ak-Haranu-0
+(1689)null-0
+(1690)null-0
+(1691)Undead Cow-2
+(1692)Undead Chicken-1
+(1693)Giant Lobster-32
+(1694)Robin-0
+(1695)Old crone-0
+(1696)Old man-0
+(1697)Ghost Villager-0
+(1698)Tortured Soul-59
+(1699)Ghost Shopkeeper-0
+(1700)Ghost Innkeeper-0
+(1701)Ghost Farmer-0
+(1702)Ghost Banker-0
+(1703)Ghost Sailor-0
+(1704)Ghost Captain-0
+(1705)Ghost Captain-0
+(1706)Ghost Guard-0
+(1707)Ghost (?)-1
+(1708)Ghost (?)-1
+(1709)Johanhus Ulsbrecht-0
+(1710)H.A.M. Guard-12
+(1711)H.A.M. Guard-18
+(1712)H.A.M. Guard-22
+(1713)H.A.M. Deacon-0
+(1714)H.A.M. Member-0
+(1715)H.A.M. Member-0
+(1716)H.A.M. Member-0
+(1717)H.A.M. Member-0
+(1718)Jimmy the Chisel-0
+(1719)Tree-0
+(1720)Tree-0
+(1721)Tree-0
+(1722)Dead tree-0
+(1723)Dead tree-0
+(1724)Dead tree-0
+(1725)Dead tree-0
+(1726)Dead tree-0
+(1727)Dead tree-0
+(1728)Dead tree-0
+(1729)Dead tree-0
+(1730)Dead tree-0
+(1731)Dead tree-0
+(1732)Dead tree-0
+(1733)Dramen tree-0
+(1734)Magic tree-0
+(1735)Maple tree-0
+(1736)Willow-0
+(1737)Willow-0
+(1738)Willow-0
+(1739)Oak-0
+(1740)Yew-0
+(1741)Evergreen-0
+(1742)Evergreen-0
+(1743)Evergreen-0
+(1744)Tree-0
+(1745)Dead tree-0
+(1746)Achey Tree-0
+(1747)Tree-0
+(1748)Tree-0
+(1749)Hollow tree-0
+(1750)Hollow tree-0
+(1751)Crow-0
+(1752)Crow-0
+(1753)Crow-0
+(1754)Crow-0
+(1755)Crow-0
+(1756)Crow-0
+(1757)Farmer-7
+(1758)Farmer-7
+(1759)Farmer-0
+(1760)Farmer-0
+(1761)Farmer-0
+(1762)Sheep-0
+(1763)Sheep-0
+(1764)Sheep-0
+(1765)Sheep-0
+(1766)Cow calf-2
+(1767)Cow-2
+(1768)Cow calf-2
+(1769)Goblin-2
+(1770)Goblin-2
+(1771)Goblin-2
+(1772)Goblin-2
+(1773)Goblin-2
+(1774)Goblin-2
+(1775)Goblin-2
+(1776)Goblin-2
+(1777)Ilfeen-0
+(1778)William-0
+(1779)Ian-0
+(1780)Larry-0
+(1781)Darren-0
+(1782)Edward-0
+(1783)Richard-0
+(1784)Neil-0
+(1785)Edmond-0
+(1786)Simon-0
+(1787)Sam-0
+(1788)Lumdo-0
+(1789)Bunkwicket-0
+(1790)Waymottin-0
+(1791)Jungle Tree-0
+(1792)Jungle Tree-0
+(1793)Tassie Slipcast-0
+(1794)Hammerspike Stoutbeard-0
+(1795)Dwarf gang member-44
+(1796)Dwarf gang member-48
+(1797)Dwarf gang member-49
+(1798)Phantuwti Fanstuwi Farsight-0
+(1799)Tindel Marchant-0
+(1800)Gnormadium Avlafrim-0
+(1801)Petra Fiyed-1
+(1802)Slagilith-92
+(1803)Rock pile-0
+(1804)Slagilith-0
+(1805)Guard-0
+(1806)Guard-0
+(1807)Hamal the Chieftain-0
+(1808)Ragnar-0
+(1809)Svidi-0
+(1810)Jokul-0
+(1811)null-1
+(1812)The Kendal-70
+(1813)The Kendal-70
+(1814)Camp dweller-31
+(1815)Camp dweller-31
+(1816)Camp dweller-31
+(1817)Camp dweller-31
+(1818)Camp dweller-25
+(1819)Mountain Goat-0
+(1820)Mountain Goat-0
+(1821)Bald Headed Eagle-0
+(1822)Cave goblin-3
+(1823)Cave goblin-3
+(1824)Cave goblin-3
+(1825)Cave goblin-3
+(1826)Hole in the wall-0
+(1827)Wall Beast-49
+(1828)Giant frog-99
+(1829)Big frog-24
+(1830)Frog-0
+(1831)Cave Slime-23
+(1832)Cave Bug-6
+(1833)Cave bug larva-0
+(1834)Candle seller-0
+(1835)Easter Bunny-0
+(1836)null-1
+(1837)Dondakan the Dwarf-0
+(1838)Dondakan the Dwarf-0
+(1839)Dondakan the Dwarf-0
+(1840)Dwarven Engineer-0
+(1841)Rolad-0
+(1842)Khorvak, a dwarven engineer-0
+(1843)Dwarven Ferryman-0
+(1844)Dwarven Ferryman-0
+(1845)null-1
+(1846)Dwarven Boatman-0
+(1847)Miodvetnir-0
+(1848)Dernu-0
+(1849)Derni-0
+(1850)Arzinian Avatar of Strength-0
+(1851)Arzinian Avatar of Strength-125
+(1852)Arzinian Avatar of Strength-75
+(1853)Arzinian Avatar of Ranging-0
+(1854)Arzinian Avatar of Ranging-125
+(1855)Arzinian Avatar of Ranging-75
+(1856)Arzinian Avatar of Magic-0
+(1857)Arzinian Avatar of Magic-125
+(1858)Arzinian Avatar of Magic-75
+(1859)Arzinian Being of Bordanzan-781
+(1860)Brian-0
+(1861)null-1
+(1862)Ali Morrisane-0
+(1863)Drunken Ali-0
+(1864)Ali The barman-0
+(1865)Ali the Kebab seller-0
+(1866)Market seller-0
+(1867)Ali the Camel Man-0
+(1868)Street urchin-0
+(1869)null-0
+(1870)Ali the Mayor-0
+(1871)Ali the Hag-0
+(1872)Ali the Snake Charmer-0
+(1873)Ali the Camel-0
+(1874)Desert snake-5
+(1875)Snake-0
+(1876)null-0
+(1877)null-0
+(1878)Bandit Leader-0
+(1879)null-56
+(1880)Bandit-56
+(1881)Bandit-56
+(1882)null-41
+(1883)Bandit-41
+(1884)Bandit-41
+(1885)Bandit champion-70
+(1886)Cowardly Bandit-56
+(1887)null-3
+(1888)Villager-3
+(1889)Villager-3
+(1890)Villager-3
+(1891)null-3
+(1892)Villager-3
+(1893)Villager-3
+(1894)Villager-3
+(1895)null-3
+(1896)Villager-3
+(1897)Villager-3
+(1898)Villager-3
+(1899)null-0
+(1900)null-0
+(1901)Menaphite Leader-0
+(1902)Ali the Operator-0
+(1903)null-55
+(1904)Menaphite Thug-55
+(1905)Menaphite Thug-55
+(1906)Tough Guy-75
+(1907)null-1
+(1908)Broken clay golem-0
+(1909)Damaged clay golem-0
+(1910)Clay golem-0
+(1911)Desert Phoenix-0
+(1912)Elissa-0
+(1913)Kamil-154
+(1914)Dessous-139
+(1915)Dessous-139
+(1916)Ruantun-0
+(1917)Bandit shopkeeper-0
+(1918)Archaeologist-0
+(1919)Stranger-95
+(1920)Malak-0
+(1921)Bartender-0
+(1922)null-1
+(1923)Eblis-0
+(1924)null-1
+(1925)Eblis-0
+(1926)Bandit-74
+(1927)Bandit-0
+(1928)Bandit-0
+(1929)Bandit-0
+(1930)Bandit-0
+(1931)Bandit-57
+(1932)null-0
+(1933)Troll child-0
+(1934)Troll child-0
+(1935)Ice troll-0
+(1936)Ice Troll-124
+(1937)Ice Troll-123
+(1938)Ice Troll-120
+(1939)Ice Troll-121
+(1940)Ice Troll-120
+(1941)Ice Troll-120
+(1942)Ice Troll-121
+(1943)null-34
+(1944)Ice block-0
+(1945)null-34
+(1946)Ice block-0
+(1947)null-1
+(1948)Troll father-0
+(1949)null-1
+(1950)Troll mother-0
+(1951)Ice wolf-132
+(1952)Ice wolf-132
+(1953)Ice wolf-132
+(1954)Ice wolf-132
+(1955)Ice wolf-132
+(1956)Ice wolf-132
+(1957)null-1
+(1958)Mummy-0
+(1959)Mummy-0
+(1960)Mummy-96
+(1961)Mummy-103
+(1962)Mummy-103
+(1963)Mummy-103
+(1964)Mummy-103
+(1965)Mummy-103
+(1966)Mummy-103
+(1967)Mummy-103
+(1968)Mummy-103
+(1969)Scarabs-92
+(1970)null-0
+(1971)Azzanadra-0
+(1972)Rasolo-0
+(1973)Giant skeleton-80
+(1974)Damis-103
+(1975)Damis-174
+(1976)Shadow Hound-63
+(1977)Fareed-167
+(1978)Slave-0
+(1979)Slave-0
+(1980)Embalmer-0
+(1981)Carpenter-0
+(1982)Linen Worker-0
+(1983)Siamun-0
+(1984)null-1
+(1985)null-1
+(1986)High Priest-0
+(1987)null-1
+(1988)Priest-0
+(1989)Priest-0
+(1990)Sphinx-0
+(1991)Possessed Priest-91
+(1992)Neite-0
+(1993)Crocodile-63
+(1994)Jackal-21
+(1995)Locust-18
+(1996)Vulture-31
+(1997)Plague Frog-11
+(1998)Plagued Cow-0
+(1999)Plagued Cow-0
+(2000)Plagued Cow-0
+(2001)Scarabs-98
+(2002)null-1
+(2003)null-1
+(2004)null-1
+(2005)Wanderer-0
+(2006)Wanderer-0
+(2007)Het-81
+(2008)Apmeken-75
+(2009)Scabaras-75
+(2010)Crondis-75
+(2011)null-1
+(2012)Icthlarin-0
+(2013)null-1
+(2014)Klenter-0
+(2015)Mummy-84
+(2016)Mummy-84
+(2017)Mummy-84
+(2018)Mummy-84
+(2019)Mummy-84
+(2020)null-1
+(2021)Light creature-0
+(2022)Light creature-0
+(2023)Juna-0
+(2024)Strange Old Man-0
+(2025)Ahrim the Blighted-98
+(2026)Dharok the Wretched-115
+(2027)Guthan the Infested-115
+(2028)Karil the Tainted-98
+(2029)Torag the Corrupted-115
+(2030)Verac the Defiled-115
+(2031)Bloodworm-52
+(2032)Crypt rat-43
+(2033)Giant crypt rat-76
+(2034)Crypt spider-56
+(2035)Giant crypt spider-79
+(2036)Skeleton-77
+(2037)Skeleton-77
+(2038)Grish-0
+(2039)Uglug Nar-0
+(2040)Pilg-0
+(2041)Grug-0
+(2042)Ogre guard-0
+(2043)Ogre guard-76
+(2044)Zogre-44
+(2045)Zogre-44
+(2046)Zogre-44
+(2047)Zogre-44
+(2048)Zogre-44
+(2049)Zogre-44
+(2050)Skogre-44
+(2051)Zogre-44
+(2052)Zogre-44
+(2053)Zogre-44
+(2054)Zogre-44
+(2055)Zogre-44
+(2056)Skogre-44
+(2057)Skogre-44
+(2058)Zombie-39
+(2059)Zavistic Rarve-0
+(2060)Slash Bash-111
+(2061)Sithik Ints-1
+(2062)Sithik Ints-1
+(2063)Gargh-0
+(2064)Scarg-0
+(2065)Gruh-0
+(2066)Irwin Feaselbaum-0
+(2067)Fishing spot-0
+(2068)Fishing spot-0
+(2069)Cave goblin miner-11
+(2070)Cave goblin miner-11
+(2071)Cave goblin miner-11
+(2072)Cave goblin miner-11
+(2073)Cave goblin guard-26
+(2074)Cave goblin guard-24
+(2075)Cave goblin miner-11
+(2076)Cave goblin miner-11
+(2077)Cave goblin miner-11
+(2078)Cave goblin miner-11
+(2079)null-1
+(2080)null-1
+(2081)null-1
+(2082)Sigmund-0
+(2083)Sigmund-0
+(2084)Mistag-0
+(2085)null-1
+(2086)Kazgar-0
+(2087)Ur-tag-0
+(2088)Duke Horacio-0
+(2089)Mistag-0
+(2090)Sigmund-0
+(2091)Secretary-0
+(2092)Purple Pewter Secretary-0
+(2093)Yellow Fortune Secretary-0
+(2094)Blue Opal Secretary-0
+(2095)Green Gemstone Secretary-0
+(2096)White Chisel Secretary-0
+(2097)Silver Cog Secretary-0
+(2098)Brown Engine Secretary-0
+(2099)Red Axe Secretary-0
+(2100)Purple Pewter Director-0
+(2101)Blue Opal Director-0
+(2102)Yellow Fortune Director-0
+(2103)Green Gemstone Director-0
+(2104)White Chisel Director-0
+(2105)Silver Cog Director-0
+(2106)Brown Engine Director-0
+(2107)Red Axe Director-0
+(2108)Red Axe Cat-0
+(2109)Trader-0
+(2110)Trader-0
+(2111)Trader-0
+(2112)Trader-0
+(2113)Trader-0
+(2114)Trader-0
+(2115)Trader-0
+(2116)Trader-0
+(2117)Trader-0
+(2118)Trader-0
+(2119)Trader-0
+(2120)Trader-0
+(2121)Trader-0
+(2122)Trader-0
+(2123)null-0
+(2124)Trader-0
+(2125)null-0
+(2126)Trader-0
+(2127)Trade Referee-0
+(2128)Supreme Commander-0
+(2129)Commander Veldaban-0
+(2130)Black Guard-48
+(2131)Black Guard-48
+(2132)Black Guard-48
+(2133)Black Guard-48
+(2134)Black Guard Berserker-66
+(2135)Black Guard Berserker-66
+(2136)Black Guard Berserker-66
+(2137)Gnome emissary-0
+(2138)Gnome traveller-0
+(2139)Gnome traveller-0
+(2140)Dromund's cat-0
+(2141)Blasidar the sculptor-0
+(2142)null-0
+(2143)Riki the sculptor's model-0
+(2144)Riki the sculptor's model-0
+(2145)Riki the sculptor's model-0
+(2146)Riki the sculptor's model-0
+(2147)Riki the sculptor's model-0
+(2148)Riki the sculptor's model-0
+(2149)Riki the sculptor's model-0
+(2150)Riki the sculptor's model-0
+(2151)Vigr-0
+(2152)Santiri-0
+(2153)Saro-0
+(2154)Gunslik-0
+(2155)Wemund-0
+(2156)Randivor-0
+(2157)Hervi-0
+(2158)Nolar-0
+(2159)Gulldamar-0
+(2160)Tati-0
+(2161)Agmundi-0
+(2162)Vermundi-0
+(2163)Banker-0
+(2164)Banker-0
+(2165)Librarian-0
+(2166)Assistant-0
+(2167)Customer-0
+(2168)Customer-0
+(2169)Dromund-0
+(2170)Rind the gardener-0
+(2171)Factory Manager-0
+(2172)Factory Worker-0
+(2173)Factory Worker-0
+(2174)Factory Worker-0
+(2175)Factory Worker-0
+(2176)Inn Keeper-0
+(2177)Inn Keeper-0
+(2178)Barmaid-0
+(2179)Barman-0
+(2180)Cart conductor-0
+(2181)Cart conductor-0
+(2182)Cart conductor-0
+(2183)Cart conductor-0
+(2184)Cart conductor-0
+(2185)Cart conductor-0
+(2186)Cart conductor-0
+(2187)Rowdy dwarf-0
+(2188)Hegir-0
+(2189)Haera-0
+(2190)Runvastr-0
+(2191)Sune-0
+(2192)Bentamir-0
+(2193)Ulifed-0
+(2194)Reinald-0
+(2195)Karl-0
+(2196)Gauss-0
+(2197)Myndill-0
+(2198)Kjut-0
+(2199)Tombar-0
+(2200)Odmar-0
+(2201)Audmann-0
+(2202)null-0
+(2203)Drunken Dwarf-0
+(2204)Drunken Dwarf-0
+(2205)Dwarven Boatman-0
+(2206)Dwarven Boatman-0
+(2207)Dwarven Miner-0
+(2208)Dwarven Miner-0
+(2209)Dwarven Miner-0
+(2210)Dwarven Miner-0
+(2211)Dwarven Miner-0
+(2212)Dwarven Miner-0
+(2213)Dwarven Miner-0
+(2214)Dwarven Miner-0
+(2215)Dwarven Miner-0
+(2216)Dwarven Miner-0
+(2217)Dwarven Miner-0
+(2218)Dwarven Miner-0
+(2219)Purple Pewter Director-0
+(2220)Purple Pewter Director-0
+(2221)Blue Opal Director-0
+(2222)Yellow Fortune Director-0
+(2223)Green Gemstone Director-0
+(2224)White Chisel Director-0
+(2225)Silver Cog Director-0
+(2226)Brown Engine Director-0
+(2227)Red Axe Director-0
+(2228)Commander Veldaban-0
+(2229)Red Axe Cat-0
+(2230)Red Axe Cat-0
+(2231)null-0
+(2232)Black Guard Berserker-0
+(2233)Olivia-0
+(2234)Master Farmer-0
+(2235)Master Farmer-0
+(2236)Market Guard-20
+(2237)Gee-0
+(2238)Donie-0
+(2239)Pig-0
+(2240)Pig-0
+(2241)Piglet-0
+(2242)Piglet-0
+(2243)Piglet-0
+(2244)Lumbridge Guide-0
+(2245)Khazard trooper-19
+(2246)Khazard trooper-19
+(2247)Gnome troop-3
+(2248)Gnome troop-3
+(2249)Gnome-3
+(2250)Gnome-1
+(2251)Gnome-3
+(2252)Mounted terrorbird gnome-49
+(2253)Wise Old Man-0
+(2254)Bed-0
+(2255)Thing under the bed-0
+(2256)Paladin-62
+(2257)null-1
+(2258)Mage of Zamorak-0
+(2259)Mage of Zamorak-0
+(2260)null-1
+(2261)Mage of Zamorak-0
+(2262)Dark mage-0
+(2263)Abyssal leech-41
+(2264)Abyssal guardian-59
+(2265)Abyssal walker-81
+(2266)Brian O'Richard-0
+(2267)Rogue Guard-0
+(2268)Rogue Guard-0
+(2269)Rogue Guard-0
+(2270)Martin Thwait-0
+(2271)Emerald Benedict-0
+(2272)Spin Blades-0
+(2273)Spin Blades-0
+(2274)Goblin-2
+(2275)Goblin-2
+(2276)Goblin-2
+(2277)Goblin-2
+(2278)Goblin-2
+(2279)Goblin-2
+(2280)Goblin-2
+(2281)Goblin-2
+(2282)Sir Spishyus-0
+(2283)Lady Table-0
+(2284)Sir Kuam Ferentse-0
+(2285)Sir Leye-20
+(2286)Sir Tinley-0
+(2287)Sir Ren Itchood-0
+(2288)Miss Cheevers-0
+(2289)Ms. Hynn Terprett-0
+(2290)Sir Tiffy Cashien-0
+(2291)Rug Merchant-0
+(2292)Rug Merchant-0
+(2293)Rug Merchant-0
+(2294)Rug Merchant-0
+(2295)null-1
+(2296)Rug Merchant-0
+(2297)null-0
+(2298)Rug Merchant-0
+(2299)null-0
+(2300)Rug Station Attendant-0
+(2301)Monkey-0
+(2302)null-0
+(2303)null-0
+(2304)Sarah-0
+(2305)Vanessa-0
+(2306)Richard-0
+(2307)Alice-0
+(2308)Capt' Arnav-0
+(2309)-0
+(2310)Cow calf-2
+(2311)Sheepdog-0
+(2312)Rooster-0
+(2313)Chicken-1
+(2314)Chicken-1
+(2315)Chicken-1
+(2316)Pig-0
+(2317)Pig-0
+(2318)Piglet-0
+(2319)Piglet-0
+(2320)Piglet-0
+(2321)Blandebir-0
+(2322)Metarialus-0
+(2323)Elstan-0
+(2324)Dantaera-0
+(2325)Kragen-0
+(2326)Lyra-0
+(2327)Francis-0
+(2328)Gardener-0
+(2329)Iago-0
+(2330)Garth-0
+(2331)Ellena-0
+(2332)Selena-0
+(2333)Vasquen-0
+(2334)Rhonen-0
+(2335)Dreven-0
+(2336)Taria-0
+(2337)Rhazien-0
+(2338)Torrell-0
+(2339)Alain-0
+(2340)Heskel-0
+(2341)Treznor-0
+(2342)Fayeth-0
+(2343)Bolongo-0
+(2344)Gileth-0
+(2345)Sick-looking sheep (1)-0
+(2346)Sick-looking sheep (2)-0
+(2347)Sick-looking sheep (3)-0
+(2348)Sick-looking sheep (4)-0
+(2349)Mourner-11
+(2350)Mourner-11
+(2351)Mourner-11
+(2352)Eudav-0
+(2353)Oronwen-0
+(2354)Banker-0
+(2355)Banker-0
+(2356)Dalldav-0
+(2357)Gethin-0
+(2358)Arianwyn-0
+(2359)Elf warrior-108
+(2360)Elf warrior-108
+(2361)Elf warrior-90
+(2362)Elf warrior-90
+(2363)Goreu-0
+(2364)Ysgawyn-0
+(2365)Arvel-0
+(2366)Mawrth-0
+(2367)Kelyn-0
+(2368)Eoin-0
+(2369)Iona-0
+(2370)null-0
+(2371)Gnome-0
+(2372)Head mourner-0
+(2373)Mourner-108
+(2374)Mourner-0
+(2375)null-1
+(2376)Eluned-0
+(2377)Sick-looking sheep (1)-0
+(2378)Sick-looking sheep (2)-0
+(2379)Sick-looking sheep (3)-0
+(2380)Sick-looking sheep (4)-0
+(2381)null-1
+(2382)null-1
+(2383)null-1
+(2384)null-1
+(2385)null-1
+(2386)null-1
+(2387)null-1
+(2388)null-1
+(2389)null-1
+(2390)null-1
+(2391)null-1
+(2392)null-1
+(2393)null-1
+(2394)null-1
+(2395)null-1
+(2396)null-1
+(2397)Mysterious ghost-0
+(2398)Mysterious ghost-0
+(2399)Mysterious ghost-0
+(2400)Mysterious ghost-0
+(2401)Mysterious ghost-0
+(2402)Mysterious ghost-0
+(2403)null-0
+(2404)null-0
+(2405)null-0
+(2406)null-0
+(2407)null-0
+(2408)null-0
+(2409)Cart conductor-0
+(2410)Red Axe Director-0
+(2411)Red Axe Director-0
+(2412)Red Axe Henchman-0
+(2413)Red Axe Henchman-0
+(2414)Red Axe Henchman-0
+(2415)Colonel Grimsson-0
+(2416)Colonel Grimsson-0
+(2417)Ogre shaman-0
+(2418)Ogre shaman-0
+(2419)Grunsh-0
+(2420)Gnome emissary-0
+(2421)Gnome companion-0
+(2422)Gnome companion-0
+(2423)Chaos dwarf-48
+(2424)Gunslik-0
+(2425)Nolar-0
+(2426)Factory Worker-0
+(2427)Cart conductor-0
+(2428)Gauss-0
+(2429)Drunken Dwarf-0
+(2430)Rowdy dwarf-0
+(2431)Ulifed-0
+(2432)Red Axe Henchman-1
+(2433)Red Axe Henchman-1
+(2434)Ogre shaman-1
+(2435)null-1
+(2436)Jarvald-0
+(2437)Jarvald-0
+(2438)Jarvald-0
+(2439)Askeladden-0
+(2440)Door-support-0
+(2441)Door-0
+(2442)Door-0
+(2443)Door-support-0
+(2444)Door-0
+(2445)Door-0
+(2446)Door-support-0
+(2447)Door-0
+(2448)Door-0
+(2449)Egg-0
+(2450)Egg-0
+(2451)Egg-0
+(2452)Giant Rock Crab-137
+(2453)Boulder-0
+(2454)Dagannoth spawn-42
+(2455)Dagannoth-90
+(2456)Dagannoth-88
+(2457)Wallasalki-98
+(2458)Freaky Forester-0
+(2459)Pheasant-3
+(2460)Pheasant-3
+(2461)Pheasant-3
+(2462)Pheasant-3
+(2463)Evil Chicken-19
+(2464)Evil Chicken-38
+(2465)Evil Chicken-69
+(2466)Evil Chicken-81
+(2467)Evil Chicken-121
+(2468)Evil Chicken-159
+(2469)Frog-0
+(2470)Frog-0
+(2471)Frog-0
+(2472)Frog-0
+(2473)Frog-0
+(2474)Frog prince-0
+(2475)Frog princess-0
+(2476)Rick Turpentine-0
+(2477)Quiz Master-0
+(2478)Evil Bob-0
+(2479)Evil Bob-0
+(2480)Servant-0
+(2481)Servant-0
+(2482)Giant bat-0
+(2483)null-1
+(2484)null-1
+(2485)null-1
+(2486)null-1
+(2487)null-1
+(2488)null-1
+(2489)Bush Snake-35
+(2490)Bush Snake-35
+(2491)Jungle spider-44
+(2492)Jungle Spider-44
+(2493)Large mosquito-13
+(2494)Mosquito swarm-17
+(2495)Mosquito swarm-20
+(2496)Tribesman-32
+(2497)Tribesman-32
+(2498)Broodoo victim-1
+(2499)Broodoo victim-60
+(2500)Broodoo victim-1
+(2501)Broodoo victim-60
+(2502)Broodoo victim-1
+(2503)Broodoo victim-60
+(2504)null-1
+(2505)Sharimika-0
+(2506)Sharimika-0
+(2507)null-1
+(2508)Mamma Bufetta-0
+(2509)Mamma Bufetta-0
+(2510)null-1
+(2511)Layleen-0
+(2512)Layleen-0
+(2513)null-1
+(2514)Karaday-0
+(2515)Karaday-0
+(2516)null-1
+(2517)Safta Doc-0
+(2518)Safta Doc-0
+(2519)null-1
+(2520)Gabooty-0
+(2521)Gabooty-0
+(2522)null-1
+(2523)Fanellaman-0
+(2524)Fanellaman-0
+(2525)null-1
+(2526)Jagbakoba-0
+(2527)Jagbakoba-0
+(2528)null-1
+(2529)Murcaily-0
+(2530)Murcaily-0
+(2531)null-1
+(2532)Rionasta-0
+(2533)Rionasta-0
+(2534)Mahogany-0
+(2535)Teak-0
+(2536)Niles-0
+(2537)Miles-0
+(2538)Giles-0
+(2539)Cap'n Hand-0
+(2540)Dr Jekyll-0
+(2541)Mr Hyde-14
+(2542)Mr Hyde-29
+(2543)Mr Hyde-49
+(2544)Mr Hyde-79
+(2545)Mr Hyde-120
+(2546)Mr Hyde-159
+(2547)Dr Ford-0
+(2548)Blackjack seller-0
+(2549)Ali the dyer-0
+(2550)Dwarven Miner-0
+(2551)Dwarven Miner-0
+(2552)Dwarven Miner-0
+(2553)Blast Furnace Foreman-0
+(2554)Tin ore-0
+(2555)Copper ore-0
+(2556)Iron ore-0
+(2557)Mithril ore-0
+(2558)Adamantite ore-0
+(2559)Runite ore-0
+(2560)Silver ore-0
+(2561)Gold ore-0
+(2562)Coal-0
+(2563)Perfect gold ore-0
+(2564)Ordan-0
+(2565)Jorzik-0
+(2566)Wise Old Man-0
+(2567)Wise Old Man-0
+(2568)Banker-0
+(2569)Banker-0
+(2570)Banker-0
+(2571)Market Guard-20
+(2572)Olivia-0
+(2573)Watchman-253
+(2574)Bank guard-0
+(2575)Purepker895-52
+(2576)Qutiedoll-16
+(2577)1337sp34kr-63
+(2578)Elfinlocks-87
+(2579)Cool Mom227-27
+(2580)Bernald-0
+(2581)Ellamaria-0
+(2582)Trolley-0
+(2583)Trolley-0
+(2584)Trolley-0
+(2585)null-1
+(2586)Billy, a guard of Falador-0
+(2587)Bob, another guard of Falador-0
+(2588)Brother Althric-0
+(2589)PKMaster0036-87
+(2590)King Roald-0
+(2591)TzHaar-Mej-103
+(2592)TzHaar-Mej-103
+(2593)TzHaar-Mej-103
+(2594)TzHaar-Mej-103
+(2595)TzHaar-Mej-103
+(2596)TzHaar-Mej-103
+(2597)TzHaar-Mej-103
+(2598)TzHaar-Hur-74
+(2599)TzHaar-Hur-74
+(2600)TzHaar-Hur-74
+(2601)TzHaar-Hur-74
+(2602)TzHaar-Hur-74
+(2603)TzHaar-Hur-74
+(2604)TzHaar-Xil-133
+(2605)TzHaar-Xil-133
+(2606)TzHaar-Xil-133
+(2607)TzHaar-Xil-133
+(2608)TzHaar-Xil-133
+(2609)TzHaar-Xil-133
+(2610)TzHaar-Ket-149
+(2611)TzHaar-Ket-149
+(2612)TzHaar-Ket-149
+(2613)TzHaar-Ket-149
+(2614)TzHaar-Ket-149
+(2615)TzHaar-Ket-149
+(2616)TzHaar-Ket-149
+(2617)TzHaar-Mej-Jal-0
+(2618)TzHaar-Mej-Kah-0
+(2619)TzHaar-Ket-Zuh-0
+(2620)TzHaar-Hur-Tel-0
+(2621)TzHaar-Hur-Koz-0
+(2622)TzHaar-Hur-Lek-0
+(2623)TzHaar-Mej-Roh-0
+(2624)TzHaar-Ket-0
+(2625)TzHaar-Ket-0
+(2626)Rocks-1
+(2627)Tz-Kih-22
+(2628)Tz-Kih-22
+(2629)Tz-Kek-45
+(2630)Tz-Kek-45
+(2631)Tok-Xil-90
+(2632)Tok-Xil-90
+(2633)Wise Old Man-0
+(2634)Miss Schism-0
+(2635)Bob-0
+(2636)Bob-0
+(2637)Sphinx-0
+(2638)Neite-0
+(2639)Robert the Strong-0
+(2640)Odysseus-0
+(2641)Dragonkin-0
+(2642)King Black Dragon-0
+(2643)R4ng3rNo0b889-0
+(2644)Love Cats-0
+(2645)Love Cats-0
+(2646)Neite-0
+(2647)Bob-0
+(2648)Beite-0
+(2649)Gnome-0
+(2650)Gnome-0
+(2651)Odysseus-0
+(2652)null-1
+(2653)Neite-0
+(2654)null-1
+(2655)Unferth-0
+(2656)Unferth-0
+(2657)Unferth-0
+(2658)Unferth-0
+(2659)Unferth-0
+(2660)Reldo-0
+(2661)Reldo-0
+(2662)Lazy cat-0
+(2663)Lazy cat-0
+(2664)Lazy cat-0
+(2665)Lazy cat-0
+(2666)Lazy cat-0
+(2667)Lazy cat-0
+(2668)Wily cat-0
+(2669)Wily cat-0
+(2670)Wily cat-0
+(2671)Wily cat-0
+(2672)Wily cat-0
+(2673)Wily cat-0
+(2674)Thief-16
+(2675)Man-2
+(2676)Make-over mage-0
+(2677)Highwayman-5
+(2678)Goblin-2
+(2679)Goblin-2
+(2680)Goblin-2
+(2681)Goblin-2
+(2682)Rat-1
+(2683)Hengel-2
+(2684)Anja-2
+(2685)Hobgoblin-28
+(2686)Hobgoblin-28
+(2687)Hobgoblin-28
+(2688)Hobgoblin-28
+(2689)Frog-0
+(2690)Jack Seagull-0
+(2691)Longbow Ben-0
+(2692)Ahab-0
+(2693)Seagull-2
+(2694)Seagull-3
+(2695)Pirate-23
+(2696)Thief-16
+(2697)Mugger-6
+(2698)Black Knight-33
+(2699)Guard-21
+(2700)Guard-21
+(2701)Guard-21
+(2702)Guard-21
+(2703)Guard-21
+(2704)Guard-0
+(2705)Guard-0
+(2706)Crab-0
+(2707)Seagull-0
+(2708)Seagull-0
+(2709)Fire Wizard-13
+(2710)Water Wizard-13
+(2711)Earth Wizard-13
+(2712)Air Wizard-13
+(2713)Malignius Mortifer-0
+(2714)Zombie-0
+(2715)Skeleton-0
+(2716)Ghost-0
+(2717)Skeleton mage-0
+(2718)Betty-0
+(2719)Grum-0
+(2720)Gerrant-0
+(2721)Wydin-0
+(2722)Giant rat-3
+(2723)Giant rat-3
+(2724)Skeleton-22
+(2725)Skeleton-22
+(2726)Gull-0
+(2727)Gull-0
+(2728)Monk of Entrana-0
+(2729)Monk of Entrana-0
+(2730)Monk of Entrana-0
+(2731)Monk of Entrana-0
+(2732)Master Crafter-0
+(2733)Master Crafter-0
+(2734)Tz-Kih-22
+(2735)Tz-Kih-22
+(2736)Tz-Kek-45
+(2737)Tz-Kek-45
+(2738)Tz-Kek-22
+(2739)Tok-Xil-90
+(2740)Tok-Xil-90
+(2741)Yt-MejKot-180
+(2742)Yt-MejKot-180
+(2743)Ket-Zek-360
+(2744)Ket-Zek-360
+(2745)TzTok-Jad-702
+(2746)Yt-HurKot-108
+(2747)Solus Dellagar-0
+(2748)Savant-0
+(2749)Lord Daquarius-0
+(2750)Solus Dellagar-0
+(2751)Black Knight-0
+(2752)Lord Daquarius-0
+(2753)Mage of Zamorak-0
+(2754)Mage of Zamorak-0
+(2755)Mage of Zamorak-0
+(2756)null-1
+(2757)null-1
+(2758)null-1
+(2759)null-1
+(2760)null-1
+(2761)null-1
+(2762)null-1
+(2763)null-1
+(2764)null-1
+(2765)null-1
+(2766)null-1
+(2767)null-1
+(2768)null-1
+(2769)null-1
+(2770)null-1
+(2771)null-1
+(2772)null-1
+(2773)null-1
+(2774)null-1
+(2775)null-1
+(2776)Woman-0
+(2777)Black Knight-32
+(2778)Black Knight-32
+(2779)Ranger-0
+(2780)Solus Dellagar-0
+(2781)Gnome guard-0
+(2782)Shadow-73
+(2783)Dark Beast-182
+(2784)Mourner-0
+(2785)Slave-0
+(2786)Slave-0
+(2787)Slave-0
+(2788)null-1
+(2789)Thorgel-0
+(2790)Sergeant Damien-0
+(2791)Pillory Guard-0
+(2792)Tramp-0
+(2793)Tramp-0
+(2794)Tramp-0
+(2795)null-48
+(2796)Skippy-0
+(2797)Skippy-0
+(2798)Skippy-0
+(2799)Skippy-0
+(2800)A pile of broken glass-0
+(2801)Mogre-60
+(2802)Gnome Coach-0
+(2803)Lizard-42
+(2804)Desert Lizard-24
+(2805)Desert Lizard-24
+(2806)Desert Lizard-24
+(2807)Small Lizard-12
+(2808)Small Lizard-12
+(2809)Al the Camel-0
+(2810)Elly the Camel-0
+(2811)Ollie the Camel-0
+(2812)Cam the Camel-0
+(2813)null-0
+(2814)Alice the Camel-0
+(2815)Neferti the Camel-0
+(2816)null-1
+(2817)null-1
+(2818)null-1
+(2819)null-1
+(2820)Ali the Smith-0
+(2821)Ali the Farmer-0
+(2822)Ali the Tailor-0
+(2823)Ali the Guard-0
+(2824)Ellis-0
+(2825)Pirate Pete-0
+(2826)Pirate Pete-0
+(2827)Captain Braindeath-0
+(2828)50% Luke-0
+(2829)Davey-0
+(2830)Captain Donnie-0
+(2831)Zombie Protester-0
+(2832)Zombie Protester-0
+(2833)Zombie Protester-0
+(2834)Zombie Protester-0
+(2835)Zombie Protester-0
+(2836)Zombie Protester-0
+(2837)Zombie Pirate-57
+(2838)Zombie Pirate-57
+(2839)Zombie Pirate-57
+(2840)Zombie Pirate-57
+(2841)Zombie Pirate-57
+(2842)Zombie Pirate-57
+(2843)Zombie Swab-55
+(2844)Zombie Swab-55
+(2845)Zombie Swab-55
+(2846)Zombie Swab-55
+(2847)Zombie Swab-55
+(2848)Zombie Swab-55
+(2849)Evil Spirit-150
+(2850)Fever Spider-49
+(2851)Brewer-0
+(2852)Brewer-0
+(2853)Brewer-0
+(2854)Brewer-0
+(2855)Brewer-0
+(2856)Brewer-0
+(2857)Brewer-0
+(2858)Brewer-0
+(2859)Fishing spot-0
+(2860)Karamthulhu-1
+(2861)Karamthulhu-0
+(2862)Death-0
+(2863)Zombie-0
+(2864)Most of a Zombie-0
+(2865)Most of a Zombie-0
+(2866)Zombie-0
+(2867)Most of a Zombie-0
+(2868)Zombie Head-0
+(2869)Zombie-0
+(2870)Half-Zombie-0
+(2871)Other Half-Zombie-0
+(2872)Child-0
+(2873)Child-0
+(2874)Child-0
+(2875)Child-0
+(2876)Child-0
+(2877)Child-0
+(2878)Zombie-0
+(2879)Bardur-94
+(2880)Dagannoth fledgeling-70
+(2881)Dagannoth Supreme-303
+(2882)Dagannoth Prime-303
+(2883)Dagannoth Rex-303
+(2884)Wallasalki-98
+(2885)Giant Rock Crab-137
+(2886)Boulder-0
+(2887)Dagannoth-88
+(2888)Dagannoth-90
+(2889)Rock lobster-127
+(2890)Rock-0
+(2891)Suspicious water-34
+(2892)Spinolyp-76
+(2893)Suspicious water-34
+(2894)Spinolyp-76
+(2895)Suspicious water-34
+(2896)Spinolyp-76
+(2897)null-1
+(2898)null-1
+(2899)Father Reen-0
+(2900)Father Reen-0
+(2901)null-1
+(2902)Father Badden-0
+(2903)Father Badden-0
+(2904)Denath-0
+(2905)Denath-0
+(2906)Eric-0
+(2907)Eric-0
+(2908)null-1
+(2909)Evil Dave-0
+(2910)Evil Dave-0
+(2911)Matthew-0
+(2912)Matthew-0
+(2913)Jennifer-0
+(2914)Jennifer-0
+(2915)Tanya-0
+(2916)Tanya-0
+(2917)Patrick-0
+(2918)Patrick-0
+(2919)Agrith Naar-100
+(2920)null-1
+(2921)Sand storm-0
+(2922)null-1
+(2923)null-1
+(2924)null-1
+(2925)null-1
+(2926)null-1
+(2927)Clay golem-0
+(2928)Clay golem-0
+(2929)null-2
+(2930)null-0
+(2931)Ghost-0
+(2932)Jorral-0
+(2933)null-0
+(2934)Melina-0
+(2935)Melina-0
+(2936)null-0
+(2937)Droalak-0
+(2938)Droalak-0
+(2939)Dron-0
+(2940)Blanin-0
+(2941)The Beast-0
+(2942)Bellemorde-0
+(2943)Pox-0
+(2944)Pox-0
+(2945)Bones-0
+(2946)Grimesquit-0
+(2947)Phingspet-0
+(2948)Hooknosed Jack-0
+(2949)Jimmy Dazzler-0
+(2950)The Face-0
+(2951)Felkrash-0
+(2952)Smokin' Joe-0
+(2953)Ceril Carnillean-0
+(2954)Councillor Halgrive-0
+(2955)Spice seller-0
+(2956)Fur trader-0
+(2957)Gem merchant-0
+(2958)Silver merchant-0
+(2959)Silk merchant-0
+(2960)Zenesha-0
+(2961)Ali Morrisane-0
+(2962)Guard-0
+(2963)Guard-0
+(2964)Guard-0
+(2965)Guard-0
+(2966)Guard-0
+(2967)Guard-0
+(2968)Guard-0
+(2969)Guard-0
+(2970)Guard-0
+(2971)Guard-0
+(2972)Guard-0
+(2973)Guard-0
+(2974)null-1
+(2975)null-1
+(2976)null-1
+(2977)null-1
+(2978)null-1
+(2979)null-1
+(2980)Rat-0
+(2981)Rat-0
+(2982)King rat-0
+(2983)Turbogroomer-0
+(2984)Pusskins-0
+(2985)Loki-0
+(2986)Captain Tom-0
+(2987)Treacle-0
+(2988)Mittens-0
+(2989)Claude-0
+(2990)Topsy-0
+(2991)Rauborn-0
+(2992)Vaeringk-0
+(2993)Oxi-0
+(2994)Fior-0
+(2995)Sagira-0
+(2996)Anleif-0
+(2997)Gertrude's cat-0
+(2998)Gambler-0
+(2999)Gambler-0
+(3000)Barman-0
+(3001)Gambler-0
+(3002)Gambler-0
+(3003)Gambler-0
+(3004)Gambler-0
+(3005)Gambler-0
+(3006)Gambler-0
+(3007)Rat-0
+(3008)Rat-0
+(3009)Rat-0
+(3010)Rat-0
+(3011)Rat-0
+(3012)Rat-0
+(3013)Rat-0
+(3014)Rat-0
+(3015)Rat-0
+(3016)Rat-0
+(3017)Rat-0
+(3018)Rat-0
+(3019)Fishing spot-0
+(3020)Rug Merchant-0
+(3021)Tool Leprechaun-0
+(3022)Genie-0
+(3023)Nirrie-0
+(3024)Tirrie-0
+(3025)Hallak-0
+(3026)Black golem-75
+(3027)White golem-75
+(3028)Grey golem-75
+(3029)Ghaslor the Elder-0
+(3030)Ali the Carter-0
+(3031)Usi-0
+(3032)Nkuku-0
+(3033)Garai-0
+(3034)Habibah-0
+(3035)Meskhenet-0
+(3036)Zahra-0
+(3037)Zahur-0
+(3038)Seddu-0
+(3039)Kazemde-0
+(3040)Awusah the Mayor-0
+(3041)Tarik-21
+(3042)Poltenip-21
+(3043)Radat-21
+(3044)Shiratti the Custodian-0
+(3045)Rokuh-0
+(3046)Nardah Banker-0
+(3047)Target-0
+(3048)Target-0
+(3049)null-1
+(3050)Larxus-0
+(3051)Mystery figure-0
+(3052)Mystery figure-0
+(3053)Mystery figure-0
+(3054)Mystery figure-0
+(3055)Mystery figure-0
+(3056)Mystery figure-0
+(3057)Earth Warrior Champion-102
+(3058)Giant Champion-56
+(3059)Ghoul Champion-85
+(3060)Goblin Champion-24
+(3061)Hobgoblin Champion-56
+(3062)Imp Champion-14
+(3063)Jogre Champion-107
+(3064)Lesser Demon Champion-162
+(3065)Skeleton Champion-40
+(3066)Zombies Champion-51
+(3067)Leon D'Cour-141
+(3068)Skeletal Wyvern-140
+(3069)Skeletal Wyvern-140
+(3070)Skeletal Wyvern-140
+(3071)Skeletal Wyvern-140
+(3072)Ice giant-53
+(3073)Ice warrior-57
+(3074)null-1
+(3075)Monk-0
+(3076)null-1
+(3077)Dead Monk-0
+(3078)High Priest-0
+(3079)Monk-0
+(3080)Monk-0
+(3081)Assassin-0
+(3082)Rosie-0
+(3083)Sorcha-0
+(3084)Cait-0
+(3085)Cormac-0
+(3086)Fionn-0
+(3087)Donnacha-0
+(3088)Ronan-0
+(3089)-0
+(3090)-0
+(3091)-0
+(3092)Hooded Stranger-0
+(3093)null-0
+(3094)Flying Book-0
+(3095)Flying Book-0
+(3096)Pizzaz Hat-1
+(3097)Entrance Guardian-0
+(3098)Telekinetic Guardian-0
+(3099)Alchemy Guardian-0
+(3100)Enchantment Guardian-0
+(3101)Graveyard Guardian-0
+(3102)Maze Guardian-0
+(3103)Rewards Guardian-0
+(3104)Charmed Warrior-0
+(3105)Charmed Warrior-0
+(3106)Charmed Warrior-0
+(3107)Charmed Warrior-0
+(3108)Bert-0
+(3109)Guard Captain-0
+(3110)null-1
+(3111)null-1
+(3112)Sandy-0
+(3113)Sandy-0
+(3114)Mazion-0
+(3115)Blaec-0
+(3116)Reeso-0
+(3117)Sandwich lady-0
+(3118)Prison Pete-0
+(3119)Balloon Animal-0
+(3120)Balloon Animal-0
+(3121)Balloon Animal-0
+(3122)Balloon Animal-0
+(3123)Simon Templeton-0
+(3124)Pyramid block-0
+(3125)Pyramid block-0
+(3126)Pentyn-0
+(3127)Aristarchus-0
+(3128)null-13
+(3129)Boneguard-0
+(3130)Pile of bones-0
+(3131)Desert Spirit-0
+(3132)null-0
+(3133)Crust of ice-0
+(3134)null-0
+(3135)Furnace grate-0
+(3136)null-1
+(3137)Enakhra-0
+(3138)Enakhra-0
+(3139)null-1
+(3140)Boneguard-0
+(3141)Akthanakos-0
+(3142)Akthanakos-0
+(3143)null-1
+(3144)null-1
+(3145)null-1
+(3146)null-1
+(3147)Lazim-0
+(3148)Enakhra-0
+(3149)Akthanakos-0
+(3150)Knight-0
+(3151)Skeleton-1
+(3152)null-1
+(3153)Harpie Bug Swarm-46
+(3154)Count Draynor-34
+(3155)Bill Teach-0
+(3156)Bill Teach-0
+(3157)Bill Teach-0
+(3158)Bill Teach-0
+(3159)Bill Teach-0
+(3160)Bill Teach-0
+(3161)Charley-0
+(3162)Smith-0
+(3163)Joe-0
+(3164)Mama-0
+(3165)Mama-0
+(3166)Mike-0
+(3167)Pirate-0
+(3168)Pirate-0
+(3169)Pirate-0
+(3170)Pirate-0
+(3171)Pirate-0
+(3172)Pirate-0
+(3173)Pirate-0
+(3174)Pirate-0
+(3175)Pirate-0
+(3176)Pirate-0
+(3177)Pirate-0
+(3178)Pirate-0
+(3179)Pirate-0
+(3180)Pirate-0
+(3181)Pirate-0
+(3182)Pirate-0
+(3183)Pirate-0
+(3184)Pirate-0
+(3185)Pirate-0
+(3186)Pirate-0
+(3187)Pirate-57
+(3188)Pirate-57
+(3189)Pirate-57
+(3190)Pirate-57
+(3191)Pirate-57
+(3192)Pirate-57
+(3193)Pirate-57
+(3194)Pirate-57
+(3195)Pirate-57
+(3196)Pirate-57
+(3197)Gull-0
+(3198)Banker-0
+(3199)Banker-0
+(3200)Chaos Elemental-305
+(3201)Killerwatt-55
+(3202)Killerwatt-55
+(3203)Storm Cloud-0
+(3204)Storm Cloud-0
+(3205)Romily Weaklax-0
+(3206)Priest-0
+(3207)Pious Pete-0
+(3208)Taper-0
+(3209)Elena-0
+(3210)Alrena-0
+(3211)Alrena-0
+(3212)Bravek-0
+(3213)null-0
+(3214)null-0
+(3215)Elena-0
+(3216)Mourner-0
+(3217)Kaylee-0
+(3218)Tina-0
+(3219)Dwarf-11
+(3220)Dwarf-11
+(3221)Dwarf-10
+(3222)Drunken man-3
+(3223)Man-2
+(3224)Man-2
+(3225)Man-2
+(3226)Woman-2
+(3227)Woman-2
+(3228)Guard-21
+(3229)Guard-22
+(3230)Guard-19
+(3231)Guard-22
+(3232)Guard-22
+(3233)Guard-22
+(3234)Gardener-3
+(3235)Apprentice workman-0
+(3236)Workman-0
+(3237)'Cuffs'-3
+(3238)Narf-2
+(3239)Rusty-2
+(3240)Jeff-2
+(3241)Guard-19
+(3242)Dark wizard-23
+(3243)Dark wizard-22
+(3244)Dark wizard-11
+(3245)Dark wizard-11
+(3246)Barbarian-17
+(3247)Barbarian-10
+(3248)Barbarian-17
+(3249)Barbarian-17
+(3250)Barbarian-10
+(3251)Barbarian-10
+(3252)Barbarian-10
+(3253)Barbarian-17
+(3254)Hunding-0
+(3255)Barbarian-10
+(3256)Barbarian-10
+(3257)Barbarian-10
+(3258)Barbarian-10
+(3259)Barbarian-15
+(3260)Barbarian-17
+(3261)Barbarian-10
+(3262)Barbarian-10
+(3263)Barbarian-9
+(3264)Goblin-5
+(3265)Goblin-5
+(3266)Goblin-5
+(3267)Goblin-5
+(3268)Dwarf-11
+(3269)Dwarf-11
+(3270)Dwarf-11
+(3271)Dwarf-11
+(3272)Dwarf-10
+(3273)Dwarf-11
+(3274)Dwarf-11
+(3275)Dwarf-7
+(3276)Black Guard-25
+(3277)Black Guard-25
+(3278)Black Guard-25
+(3279)Black Guard-25
+(3280)Engineering assistant-0
+(3281)Engineering assistant-0
+(3282)Engineer-0
+(3283)Squirrel-0
+(3284)Squirrel-0
+(3285)Squirrel-0
+(3286)Raccoon-0
+(3287)Raccoon-0
+(3288)Raccoon-0
+(3289)null-1
+(3290)null-1
+(3291)Skeleton-22
+(3292)Witch-25
+(3293)null-0
+(3294)Dwarf-0
+(3295)Dwarf-0
+(3296)Swan-0
+(3297)Black swan-0
+(3298)Sweeper-0
+(3299)Martin the Master Gardener-0
+(3300)Frog-0
+(3301)Storm Cloud-0
+(3302)Co-ordinator-0
+(3303)Fairy Nuff-0
+(3304)Fairy Godfather-0
+(3305)Slim Louie-0
+(3306)Fat Rocco-0
+(3307)Gate Keeper-0
+(3308)Zandar Horfyre-0
+(3309)Cow-2
+(3310)Sheep-0
+(3311)Sheep-0
+(3312)Zanaris Choir-0
+(3313)Tanglefoot-111
+(3314)null-1
+(3315)null-1
+(3316)null-1
+(3317)null-1
+(3318)null-1
+(3319)Baby Tanglefoot-45
+(3320)Baby Tanglefoot-45
+(3321)Gate Keeper-0
+(3322)Fairy Chef-0
+(3323)null-0
+(3324)Draul Leptoc-0
+(3325)Phillipa-0
+(3326)Martina Scorsby-0
+(3327)Jeremy Clerksin-0
+(3328)Tarquin-0
+(3329)Sigurd-0
+(3330)Hari-0
+(3331)Barfy Bill-0
+(3332)Trees-0
+(3333)Trees-0
+(3334)Cavemouth-0
+(3335)Bullrush-0
+(3336)Bullrush-0
+(3337)Cave Scenery-0
+(3338)Cave Scenery-0
+(3339)Cave Scenery-0
+(3340)Giant Mole-230
+(3341)Baby Mole-0
+(3342)Baby Mole-0
+(3343)Baby Mole-0
+(3344)Fungi-74
+(3345)Fungi-86
+(3346)Zygomite-74
+(3347)Zygomite-86
+(3348)White Knight-38
+(3349)White Knight-39
+(3350)White Knight-42
+(3351)Genie-0
+(3352)Mysterious Old Man-0
+(3353)Swarm-0
+(3354)Cap'n Hand-0
+(3355)Rick Turpentine-0
+(3356)Niles-0
+(3357)Miles-0
+(3358)Giles-0
+(3359)Dr Jekyll-0
+(3360)Mr Hyde-14
+(3361)Mr Hyde-29
+(3362)Mr Hyde-49
+(3363)Mr Hyde-79
+(3364)Mr Hyde-120
+(3365)Mr Hyde-159
+(3366)Evil Chicken-19
+(3367)Evil Chicken-38
+(3368)Evil Chicken-69
+(3369)Evil Chicken-81
+(3370)Evil Chicken-121
+(3371)Evil Chicken-159
+(3372)Sir Amik Varze-0
+(3373)null-1
+(3374)Sir Amik Varze-0
+(3375)Evil Chicken-159
+(3376)Baby black dragon-83
+(3377)K'klik-0
+(3378)Evil Dave-0
+(3379)null-1
+(3380)Evil Dave-0
+(3381)Doris-0
+(3382)Hell-Rat-0
+(3383)null-0
+(3384)null-0
+(3385)Gypsy-0
+(3386)Gypsy-0
+(3387)Culinaromancer-0
+(3388)Osman-0
+(3389)Pirate Pete-0
+(3390)Mountain Dwarf-0
+(3391)General Wartface-0
+(3392)General Bentnoze-0
+(3393)Lumbridge Guide-0
+(3394)Evil Dave-0
+(3395)Sir Amik Varze-0
+(3396)Awowogei-0
+(3397)Awowogei-0
+(3398)Skrach Uglogwee-0
+(3399)null-1
+(3400)Culinaromancer-1
+(3401)null-1
+(3402)An old Dwarf-0
+(3403)Rohak-0
+(3404)null-1
+(3405)Rohak-0
+(3406)Icefiend-13
+(3407)General Wartface-0
+(3408)General Bentnoze-0
+(3409)null-1
+(3410)General Wartface-0
+(3411)null-1
+(3412)General Bentnoze-0
+(3413)Goblin Cook-0
+(3414)Goblin Cook-0
+(3415)Goblin Cook-0
+(3416)Pirate Pete-0
+(3417)null-1
+(3418)Pirate Pete-0
+(3419)Mogre Guard-0
+(3420)Nung-0
+(3421)Crab-23
+(3422)Mudskipper-30
+(3423)Mudskipper-31
+(3424)Crab-21
+(3425)Fish-0
+(3426)Fish-0
+(3427)Fish-0
+(3428)Fish-0
+(3429)Fish-0
+(3430)Fish-0
+(3431)Fish-0
+(3432)Fish-0
+(3433)Fish-0
+(3434)Fish-0
+(3435)Fish-0
+(3436)Fish-0
+(3437)Fish-0
+(3438)Fish-0
+(3439)Fish-0
+(3440)Fish-0
+(3441)Fish-0
+(3442)Fish-0
+(3443)Fish-0
+(3444)Fish-0
+(3445)Fish-0
+(3446)Fish-0
+(3447)Fish-0
+(3448)Fish-0
+(3449)Lumbridge Guide-0
+(3450)null-1
+(3451)Lumbridge Guide-0
+(3452)? ? ? ?-0
+(3453)? ? ? ?-0
+(3454)? ? ? ?-0
+(3455)? ? ? ?-0
+(3456)? ? ? ?-0
+(3457)? ? ? ?-0
+(3458)? ? ? ?-0
+(3459)? ? ? ?-0
+(3460)? ? ? ?-0
+(3461)? ? ? ?-0
+(3462)null-0
+(3463)Skrach Uglogwee-0
+(3464)Skrach Uglogwee-0
+(3465)null-1
+(3466)Rantz-0
+(3467)Rantz-1
+(3468)Rantz-1
+(3469)null-1
+(3470)null-1
+(3471)Ogre boat-0
+(3472)Ogre boat-0
+(3473)Balloon Toad-0
+(3474)Balloon Toad-0
+(3475)Balloon Toad-0
+(3476)Jubbly bird-9
+(3477)Jubbly bird-0
+(3478)King Awowogei-0
+(3479)null-1
+(3480)King Awowogei-0
+(3481)Mizaru-0
+(3482)Kikazaru-0
+(3483)Iwazaru-0
+(3484)Big Snake-84
+(3485)Culinaromancer-0
+(3486)Culinaromancer-0
+(3487)Culinaromancer-0
+(3488)Culinaromancer-0
+(3489)Culinaromancer-0
+(3490)Culinaromancer-0
+(3491)Culinaromancer-75
+(3492)Culinaromancer-0
+(3493)Agrith-Na-Na-146
+(3494)Flambeed-149
+(3495)Karamel-136
+(3496)Dessourt-121
+(3497)Gelatinnoth Mother-130
+(3498)Gelatinnoth Mother-130
+(3499)Gelatinnoth Mother-130

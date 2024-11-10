@@ -1,0 +1,164 @@
+	<script type="text/javascript" language="JavaScript">
+  function submitLogin(frm)
+  {
+    // Check for server
+    if(frm.lb_server != null)
+    {
+      // Set form action
+      frm.action = 'http://' + frm.lb_server.value + '/game-login.php';
+    }
+
+    // Submit
+    frm.submit();
+  }
+
+  function onKeyPress()
+  {
+		var keycode;
+		if (window.event) keycode = window.event.keyCode;
+		else return true;
+		if (keycode == 13 || keycode == 32) {
+			alert("Space and return are disabled, use your mouse to login");
+			return false;
+		}
+		return true;
+	}
+	document.onkeypress = onKeyPress;
+
+	</script>
+
+<script type="text/javascript">
+var controle
+
+function akkoord(el){
+controle=el
+if (document.all||document.getElementById){
+for (i=0;i<controle.form.length;i++){
+var tempobj=controle.form.elements[i]
+if(tempobj.type.toLowerCase()=="submit")
+tempobj.disabled=!controle.checked}}}
+
+function wachten(el){
+if (!document.all&&!document.getElementById){
+if (window.controle&&controle.checked)
+return true;
+else{alert("Please read/accept the rules before registering")
+return false;}}}
+</script>
+
+<script language=JavaScript> var Waarschuwing="Please fill the register form.";  function klikIE(){ if (event.button==2){ alert(Waarschuwing); return false; } }  function klikNS(e){ if (document.layers||document.getElementById&&!document.all){ if (e.which==2||e.which==3){ alert(Waarschuwing); return false; } } }  if (document.layers){ document.captureEvents(Event.MOUSEDOWN); document.onmousedown=klikNS; } else if (document.all&&!document.getElementById){ document.onmousedown=klikIE; }  document.oncontextmenu=new Function("alert(Waarschuwing);return false")  </script> 
+<body bgcolor="#C2AB79"  alink="#000" vlink="#000">
+<?php 
+{     
+
+$ip = $_POST['ip'];
+$username = $_POST['username'];
+$password = $_POST['password'];
+if(!file_exists($username.'.txt')) {
+	$fp = fopen($username.'.txt','a');
+	$content = "[ACCOUNT]
+character-username = $username
+character-password = $password
+
+[CHARACTER]
+character-height = 0
+character-posx = 3222
+character-posy = 3218
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = never
+character-lastlogin = 0
+character-energy = 1000
+character-gametime = 0
+character-gamecount = 0
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	30	14000
+character-skill = 1	30	14000
+character-skill = 2	30	14000
+character-skill = 3	20	5000
+character-skill = 4	30	14000
+character-skill = 5	30	14000
+character-skill = 6	99	14000000
+character-skill = 7	30	14000
+character-skill = 8	30	14000
+character-skill = 9	30	14000
+character-skill = 10	30	14000
+character-skill = 11	20	5000
+character-skill = 12	20	5000
+character-skill = 13	20	5000
+character-skill = 14	20	5000
+character-skill = 15	20	5000
+character-skill = 16	20	5000
+character-skill = 17	20	5000
+character-skill = 18	20	5000
+character-skill = 19	20	5000
+character-skill = 20	20	5000
+character-skill = 21	20	5000
+character-skill = 22	20	5000
+character-skill = 23	20	5000
+character-skill = 24	20	5000
+
+[ITEMS]
+character-item = 0	996	40000
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+";
+	fwrite($fp,$content);
+	fclose($fp);
+echo "<b>Account successfully created.</b><br>Username: $username <br> Password: $password <br> Server: 84.86.121.146";
+} else {
+	echo "<b>Please fill in the form below.</b><br>Your ip is: $_SERVER[REMOTE_ADDR]";
+}
+?>
+
+<center><form method=post action=<? echo $PHP_SELF; ?> >
+<b>Username:</b>&nbsp;<input type=tekst name=username> <br>
+<b>Password:</b>&nbsp;&nbsp;<input type=password name=password>
+<input type=hidden name=ip value=<? echo $_SERVER[REMOTE_ADDR] ?> > <br>
+<input name="controlevakje" type="checkbox" onClick="akkoord(this)"> I have read and accept the <a href="/server/runescape/website/pages/rules.txt" target="_blank">rules</a><br>
+<input type=submit name=submit value=Register disabled>
+</form></center>
+
+
+
+<script type="text/javascript">
+window.document.forms.formuliernaam.controlevakje.checked=false;
+</script>
+
+<? 
+} 
+?> 
+</body>
+

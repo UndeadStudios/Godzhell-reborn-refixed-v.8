@@ -1,0 +1,58 @@
+		else if(itemUsed == 1733 && useWith == 1741) {
+					if(playerLevel[24] >= 0) {
+					showInterface(2311);
+				}
+
+
+case 33205:
+if(playerHasItemAmount(1734, 2) && playerLevel[24] >= 9) {
+RemoveAllWindows();
+addItem(1167, 1);
+deleteItem(1734, getItemSlot(1734), 2);
+deleteItem(1741, getItemSlot(1741), 1);
+addTaylXP(32);
+sendMessage("You make a leather cowl!!");
+} else {
+sendMessage("You havnt got any thread!");
+}
+break;
+
+		else if(itemUsed == 1733 && useWith == 1745) {
+if(playerHasItemAmount(1745, 10) && playerLevel[24] >= 0) {
+if(playerHasItemAmount(1734, 30) && playerLevel[24] >= 0) {
+RemoveAllWindows();
+addItem(1065, 1);
+addItem(1099, 1);
+addItem(1135, 1);
+deleteItem(1745, getItemSlot(1734), 10);
+deleteItem(1734, getItemSlot(1741), 40);
+addTaylXP(1000);
+sendMessage("You make a green dragonhide sett!!");
+} else {
+sendMessage("You havnt got any thread or green dragon leather!");
+}
+
+//bõrök
+item = 1747	Dragonhide dark	
+item = 1749	Dragonhide red	
+item = 1751	Dragonhide blue	
+item = 1753	Dragonhide green
+item = 1745	Dragon_leather green
+
+//green
+item = 1065	Dragon_vambraces green
+item = 1099	Dragonhide_chaps nadrag green
+item = 1135	Dragonhide_body	green
+
+item = 2487	Dragon_vambraces blue
+item = 2489	Dragon_vambraces red
+item = 2491	Dragon_vambraces black
+item = 2493	Dragonhide_chaps blue
+item = 2495	Dragonhide_chaps red
+item = 2497	Dragonhide_chaps black
+item = 2499	Dragonhide_body 
+item = 2501	Dragonhide_body
+item = 2503	Dragonhide_body
+item = 2505	Dragon_leather
+item = 2507	Dragon_leather
+item = 2509	Dragon_leather

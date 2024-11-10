@@ -1,0 +1,64 @@
+Purpose: To make the welcome message load from text
+
+Difficulty: 3
+
+Assumed Knowledge: Brain, copy and paste
+
+Server Base: R00nscape (testscape based) but will work on all servers
+
+Classes Modified: client.java wmessage.txt
+
+Procedure
+Step 1: Add this public void:
+Code:
+
+public void wmessage()
+    {
+        try
+        {
+            BufferedReader in = new BufferedReader(new FileReader("data/wmessage.txt"));
+            String data = null;
+            while ((data = in.readLine()) != null)
+            {
+                sendMessage(data);
+            }
+        }
+        catch (IOException e)
+        {
+            System.out.println("Critical error while reading welcome message file!");
+            e.printStackTrace();
+        }
+    }
+
+Step 2: Search for:
+Code:
+
+openWelcomeScreen
+
+You should see something like this:
+Code:
+
+MainHelpMenu();
+		//openWelcomeScreen(201, false, 3, (127 << 24)+1, misc.random(10));
+		ResetBonus();
+		GetBonus();
+		WriteBonus();
+                Poisoned = false;
+		sendMessage("Welcome to R00nscape!");
+                sendMessage("Type ::commandhelp for list of usefull commands!");
+                sendMessage("Train Combat on NPC's! ");
+                sendMessage("Type ::servermenu for help.");
+                sendMessage("S");
+		sendMessage("PLEASE DON'T ASK TO BECOME A PLAYER MOD!!!");
+		sendMessage("IT WONT WORK!!!!");
+                sendMessage("Ecto tokens are now a replacement to bloods due to server crashes.");
+		sendMessage("TYPE ::menuhelp FOR A LIST OF MENU's");
+		sendMessage("Before playing please read ::disclaimer");
+
+Step 3: Replace that with this:
+Code:
+
+wmessage(); //Read & Print welcome message from file
+
+Step 4: Now go into the data folder and create a txt document called wmessage
+Step 5: Save and compile and run

@@ -1,0 +1,24 @@
+---------------------Attack Bonuses---------------------------------------------
+Stab = A
+Slash = B
+Crush = C
+Magic = D
+Range = E
+----------------------Defence Bonuses----------------------------------
+Stab = F
+Slash = G
+Crush = H
+Magic = I
+Range = J
+-------------------------Other Bonuses------------------------------------
+Stength = K
+Prayer = L
+
+------------------------Shop prices/alchs-----------------------------------
+Shop sell price = X
+Shop buy price = Y
+Alch price = Z
+
+
+
+item = 1333	Rune_scimitar	A_vicious,_curved_sword.	X	Y	Z	A	B	C	D	E	F	G	H	I	J	K	L
