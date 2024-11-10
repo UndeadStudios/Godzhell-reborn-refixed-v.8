@@ -1,0 +1,3 @@
+@echo off
+title Running...
+java -cp .;./jython.jar server
