@@ -2922,6 +2922,7 @@ public class NPCHandler {
     }
     public int getNpcDeathAnimation(int npcType) {
         switch (npcType) {
+            case 128: return 278;
                 case 1648:
             case 1649:
             case 1650:
@@ -3117,6 +3118,7 @@ public class NPCHandler {
     }
     public int getNpcAttackAnimation(int npcType) {
         switch (npcType) {
+            case 128: return 275;
             case 1648:
             case 1649:
             case 1650:
@@ -3261,6 +3263,7 @@ public class NPCHandler {
     }
     public int GetNPCBlockAnim(int id) {
         switch (id) {
+            case 128: return 276;
             case 1648:
             case 1649:
             case 1650:

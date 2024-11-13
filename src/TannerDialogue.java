@@ -10,7 +10,7 @@ public class TannerDialogue extends Dialogue {
                 setNext(1);
                 break;
             case 1:
-                if(!getPlayer().playerHasItem(1739)) {
+                if(!getPlayer().playerHasItem(1739) || !getPlayer().playerHasItem(6287)) {
                     DialogueManager.sendOption(getPlayer(), "Can I buy some leather then?", "Leather is rather weak stuff.");
                 } else {
                     DialogueManager.sendNpcChat(getPlayer(), getPlayer().talkingNpc, Emotion.HAPPY, " I see you have brought me some hides.", "Would you like me to tan them for you?");
