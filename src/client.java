@@ -4020,7 +4020,13 @@ public class client extends Player implements Runnable {
         SingleGates.useSingleGate(this, objectID);
         DoubleGates.useDoubleGate(this, objectID);
         switch (objectID) {
-            case 36878:// full flour bin
+            case 1408:
+                PickableObjects.pickupPineapple(this, objectID, objectX, objectY);
+                break;
+            case 1413:
+                sendMessage("nothing left on the pineapple plant.");
+                break;
+                case 36878:// full flour bin
                 FlourMill.emptyFlourBin(this);
                 break;
             case 36881:
@@ -26758,6 +26764,10 @@ nated = Integer.parseInt(token2);
                     resetWalkingQueue();
                 }
                 switch (objectID) {
+                    case 1408:
+                    case 1413:
+                        objectDistance = 2;
+                        break;
                     case 29728:
                         objectDistance = 2;
                         break;
