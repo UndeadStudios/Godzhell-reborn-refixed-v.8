@@ -23973,6 +23973,9 @@ nated = Integer.parseInt(token2);
                     case 547:
                         start(new BaraekDialogue());
                         break;
+                    case 804:
+                        start(new TannerDialogue());
+                        break;
                 }
                 if(NPCID == 494){
                     start(new BankerDialogue());
