@@ -3214,50 +3214,7 @@ public class client extends Player implements Runnable {
         deletethatobject(3078, 9509);
 
         deletethatobject(2935, 3355); // hang
-        deletethatobject(2799, 3154); // new training area for chicken
-        deletethatobject(2798, 3156); // new training area for chicken
-        deletethatobject(2797, 3156); // new training area for chicken
-        deletethatobject(2796, 3156); // new training area for chicken
-        deletethatobject(2795, 3156); // new training area for chicken
-        deletethatobject(2794, 3156); // new training area for chicken
-        deletethatobject(2791, 3157); // new training area for chicken
-        deletethatobject(2794, 3157); // new training area for chicken
-        deletethatobject(2796, 3157); // new training area for chicken
-        deletethatobject(2797, 3157); // new training area for chicken
-        deletethatobject(2799, 3157); // new training area for chicken
-        deletethatobject(2795, 3159); // new training area for chicken
-        deletethatobject(2794, 3160); // new training area for chicken
-        deletethatobject(2794, 3161); // new training area for chicken
-        deletethatobject(2795, 3160); // new training area for chicken
-        deletethatobject(2797, 3161); // new training area for chicken
-        deletethatobject(2798, 3159); // new training area for chicken
-        deletethatobject(2799, 3160); // new training area for chicken
-        deletethatobject(2799, 3161); // new training area for chicken
-        deletethatobject(2798, 3160); // new training area for chicken
-        deletethatobject(2791, 3160); // new training area for chicken
-        deletethatobject(2791, 3161); // new training area for chicken
-        deletethatobject(2791, 3162); // new training area for chicken
-        deletethatobject(2791, 3164); // new training area for chicken
-        deletethatobject(2799, 3164); // new training area for chicken
-        deletethatobject(2799, 3165); // new training area for chicken
-        deletethatobject(2799, 3166); // new training area for chicken
-        deletethatobject(2799, 3169); // new training area for chicken
-        deletethatobject(2798, 3169); // new training area for chicken
-        deletethatobject(2797, 3169); // new training area for chicken
-        deletethatobject(2791, 3167); // new training area for chicken
-        deletethatobject(2791, 3166); // new training area for chicken
-        deletethatobject(2793, 3166); // new training area for chicken
-        deletethatobject(2794, 3166); // new training area for chicken
-        deletethatobject(2795, 3166); // new training area for chicken
-        deletethatobject(2796, 3166); // new training area for chicken
-        deletethatobject(2793, 3165); // new training area for chicken
-        deletethatobject(2795, 3165); // new training area for chicken
-        deletethatobject(2793, 3164); // new training area for chicken
-        deletethatobject(2794, 3164); // new training area for chicken
-        deletethatobject(2795, 3164); // new training area for chicken
-        deletethatobject(2796, 3164); // new training area for chicken
-        deletethatobject(2461, 3176); // new training area for chicken
-        deletethatobject(2466, 3172); // new training area for chicken
+
         //deletethatobject(2468, 3178); // new training area for chicken
         deletethatobject(2387, 3488); // hang
         deletethatobject(2463, 3186); // hang

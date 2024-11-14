@@ -2889,7 +2889,10 @@ public class NPCHandler {
         if (npc.contains("imp")) {
             return 9;
         }
-        if (npc.contains("rat")) {
+        if (npc.equalsIgnoreCase("rat")) {
+            return 15;
+        }
+        if (npc.equalsIgnoreCase("giant rat")) {
             return 15;
         }
         if (npc.contains("duck")) {
@@ -2922,6 +2925,7 @@ public class NPCHandler {
     }
     public int getNpcDeathAnimation(int npcType) {
         switch (npcType) {
+            case 132: return 223;
             case 128: return 278;
                 case 1648:
             case 1649:
@@ -3075,7 +3079,10 @@ public class NPCHandler {
         if (npc.contains("imp")) {
             return 11;
         }
-        if (npc.contains("rat")) {
+        if (npc.equalsIgnoreCase("rat")) {
+            return 17;
+        }
+        if (npc.equalsIgnoreCase("giant rat")) {
             return 17;
         }
         if (npc.contains("duck")) {
@@ -3118,6 +3125,7 @@ public class NPCHandler {
     }
     public int getNpcAttackAnimation(int npcType) {
         switch (npcType) {
+            case 132: return 220;
             case 128: return 275;
             case 1648:
             case 1649:
@@ -3221,7 +3229,10 @@ public class NPCHandler {
         if (npc.contains("imp")) {
             return 11;
         }
-        if (npc.contains("rat")) {
+        if (npc.equalsIgnoreCase("rat")) {
+            return 16;
+        }
+        if (npc.equalsIgnoreCase("giant rat")) {
             return 16;
         }
         if (npc.contains("duck")) {
@@ -3263,6 +3274,7 @@ public class NPCHandler {
     }
     public int GetNPCBlockAnim(int id) {
         switch (id) {
+            case 132: return 221;
             case 128: return 276;
             case 1648:
             case 1649:
