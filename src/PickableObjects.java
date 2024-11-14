@@ -122,6 +122,7 @@ public static void pickupOnion(final client c, final int object, final int obX, 
 						face = worldObject.get().getFace();
 					}
 					server.getGlobalObjects().add(new GlobalObject(1413, obX, obY, c.heightLevel, face, 10, 60, object));
+				Region.addWorldObject(1413, obX, obY, c.heightLevel, face);
 				}
 				c.sendMessage("You pick a pineapple.");
 				c.addItem(ItemIDs.PINEAPPLE, 1);

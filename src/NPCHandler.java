@@ -1269,6 +1269,7 @@ public class NPCHandler {
     public boolean npcGetsAnnoyed(int Npc) {
         switch(npcs[Npc].npcType) {
             case 6260:
+            case 191:
                 return true;
             case 6261:
             case 6263:
@@ -3160,7 +3161,8 @@ public class NPCHandler {
             case 4410:
             case 4411:
             case 4412: return 6188;
-            case 3260: return 799;
+            case 3260:
+            case 191: return 799;
             case 35:
             case 9: return 12311;
             case 3200:

@@ -57,6 +57,7 @@ public class GlobalObject {
 
     public GlobalObject(int id, int x, int y, int height, int face, int type, int ticksRemaining, int restoreId) {
         this(id, x, y, height, face, type, ticksRemaining);
+
         this.restoreId = restoreId;
     }
 
