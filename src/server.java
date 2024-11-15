@@ -49,6 +49,7 @@ public class server implements Runnable {
     public static potions potions = null;
     public static clickingMost clickingMost = null;
     public static NPCHandler npcHandler = null;
+    public static GarbageCollectorManager garbageCollectorManager = null;
     public static PickableObjects PickableObjects = null;
     public static Discord discordBot = null;
     public static TextHandler textHandler = null;
@@ -128,6 +129,7 @@ public class server implements Runnable {
         objectManager = new ObjectManager();
         shopHandler = new ShopHandler();
         PickableObjects = new PickableObjects();
+        garbageCollectorManager = new GarbageCollectorManager();
         clickingMost = new clickingMost();
         fishing = new Fishing();
         antilag = new antilag();
@@ -157,6 +159,7 @@ public class server implements Runnable {
             playerHandler.process();            // updates all player related stuff
             npcHandler.process();
             itemHandler.process();
+            garbageCollectorManager.process();
             shopHandler.process();
              lottery.process();
                 globalObjects.pulse();

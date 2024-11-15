@@ -26727,6 +26727,11 @@ nated = Integer.parseInt(token2);
                     resetWalkingQueue();
                 }
                 switch (objectID) {
+                    case 2585:
+                        objectXOffset = 1;
+                        objectYOffset = 1;
+                        objectDistance = 2;
+                        break;
                     case 1408:
                     case 1413:
                         objectDistance = 2;
