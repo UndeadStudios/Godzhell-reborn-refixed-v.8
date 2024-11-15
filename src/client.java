@@ -23939,6 +23939,9 @@ nated = Integer.parseInt(token2);
                     case 804:
                         start(new TannerDialogue());
                         break;
+                    case 560:
+                        start(new JiminuaDialogue());
+                        break;
                 }
                 if(NPCID == 494){
                     start(new BankerDialogue());
@@ -24678,6 +24681,9 @@ nated = Integer.parseInt(token2);
                 } else if (NPCID == 589) { // Zenesha's Plate Mail Body Shop
                     PutNPCCoords = true;
                     WanneShop = 97; // Zenesha's Plate Mail Body Shop
+                } else if (NPCID == 560) { // Zenesha's Plate Mail Body Shop
+                    PutNPCCoords = true;
+                    WanneShop = 201; // Zenesha's Plate Mail Body Shop
                 } else if (NPCID == 2270){
                     PutNPCCoords = true;
                     WanneShop = 239; // obby shop
