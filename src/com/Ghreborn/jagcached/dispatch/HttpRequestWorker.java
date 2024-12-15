@@ -1,6 +1,7 @@
 package com.Ghreborn.jagcached.dispatch;
 
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
@@ -21,7 +22,8 @@ import org.jboss.netty.handler.codec.http.HttpResponse;
 import org.jboss.netty.handler.codec.http.HttpResponseStatus;
 
 /**
- * A worker which services HTTP requests.
+ * A worker which services HTTP requests, including handling ZIP file requests.
+ * Automatically generates an index.html file on server startup if it does not exist.
  * @author Graham
  */
 public final class HttpRequestWorker extends RequestWorker<HttpRequest, ResourceProvider> {
@@ -30,7 +32,7 @@ public final class HttpRequestWorker extends RequestWorker<HttpRequest, Resource
 	 * The value of the server header.
 	 */
 	private static final String SERVER_IDENTIFIER = "JAGeX/3.1";
-	
+
 	/**
 	 * The directory with web files.
 	 */
@@ -47,6 +49,7 @@ public final class HttpRequestWorker extends RequestWorker<HttpRequest, Resource
 	 */
 	public HttpRequestWorker(IndexedFileSystem fs) {
 		super(new CombinedResourceProvider(new VirtualResourceProvider(fs), new HypertextResourceProvider(WWW_DIRECTORY)));
+		ensureIndexFile();
 	}
 
 	@Override
@@ -58,34 +61,57 @@ public final class HttpRequestWorker extends RequestWorker<HttpRequest, Resource
 	protected void service(ResourceProvider provider, Channel channel, HttpRequest request) throws IOException {
 		String path = request.getUri();
 		ByteBuffer buf = provider.get(path);
-		
+
 		ChannelBuffer wrappedBuf;
 		HttpResponseStatus status = HttpResponseStatus.OK;
-		
-		String mimeType = getMimeType(request.getUri());
-		
+
+		String mimeType = getMimeType(path);
+
 		if (buf == null) {
 			status = HttpResponseStatus.NOT_FOUND;
-			wrappedBuf = createErrorPage(status, "The page you requested could not be found.");
+			wrappedBuf = createErrorPage(status, "The requested resource could not be found, or ZIP entry is missing.");
 			mimeType = "text/html";
 		} else {
 			wrappedBuf = ChannelBuffers.wrappedBuffer(buf);
 		}
-		
+
 		HttpResponse resp = new DefaultHttpResponse(request.getProtocolVersion(), status);
-		
+
 		resp.setHeader("Date", new Date());
 		resp.setHeader("Server", SERVER_IDENTIFIER);
-		resp.setHeader("Content-type", mimeType + ", charset=" + CHARACTER_SET.name());
+		resp.setHeader("Content-Type", mimeType + "; charset=" + CHARACTER_SET.name());
 		resp.setHeader("Cache-control", "no-cache");
 		resp.setHeader("Pragma", "no-cache");
 		resp.setHeader("Expires", new Date(0));
 		resp.setHeader("Connection", "close");
-		resp.setHeader("Content-length", wrappedBuf.readableBytes());
+		resp.setHeader("Content-Length", wrappedBuf.readableBytes());
 		resp.setChunked(false);
 		resp.setContent(wrappedBuf);
-		
+
 		channel.write(resp).addListener(ChannelFutureListener.CLOSE);
+
+		logRequest(path, status);
+	}
+
+	/**
+	 * Ensures that the index.html file exists in the WWW_DIRECTORY.
+	 * If it does not exist, it will be created with a default message.
+	 */
+	private void ensureIndexFile() {
+		File indexFile = new File(WWW_DIRECTORY, "index.html");
+		if (!indexFile.exists()) {
+			try {
+				if (!WWW_DIRECTORY.exists()) {
+					WWW_DIRECTORY.mkdirs();
+				}
+				try (FileWriter writer = new FileWriter(indexFile)) {
+					writer.write("<!DOCTYPE html><html><head><title>Welcome</title></head><body><h1>Welcome to the server!</h1><p>This is the default index page.</p></body></html>");
+				}
+				System.out.println("Generated default index.html at: " + indexFile.getAbsolutePath());
+			} catch (IOException e) {
+				System.err.println("Failed to create default index.html: " + e.getMessage());
+			}
+		}
 	}
 
 	/**
@@ -106,10 +132,12 @@ public final class HttpRequestWorker extends RequestWorker<HttpRequest, Resource
 			return "image/gif";
 		} else if (name.endsWith(".png")) {
 			return "image/png";
+		} else if (name.endsWith(".zip")) {
+			return "application/zip";
 		} else if (name.endsWith(".txt")) {
 			return "text/plain";
 		}
-		return "application/octect-stream";
+		return "application/octet-stream";
 	}
 
 	/**
@@ -120,9 +148,9 @@ public final class HttpRequestWorker extends RequestWorker<HttpRequest, Resource
 	 */
 	private ChannelBuffer createErrorPage(HttpResponseStatus status, String description) {
 		String title = status.getCode() + " " + status.getReasonPhrase();
-		
+
 		StringBuilder bldr = new StringBuilder();
-		
+
 		bldr.append("<!DOCTYPE html><html><head><title>");
 		bldr.append(title);
 		bldr.append("</title></head><body><h1>");
@@ -132,8 +160,16 @@ public final class HttpRequestWorker extends RequestWorker<HttpRequest, Resource
 		bldr.append("</p><hr /><address>");
 		bldr.append(SERVER_IDENTIFIER);
 		bldr.append(" Server</address></body></html>");
-		
+
 		return ChannelBuffers.copiedBuffer(bldr.toString(), Charset.defaultCharset());
 	}
 
+	/**
+	 * Logs the details of an HTTP request.
+	 * @param path The requested path.
+	 * @param status The HTTP response status.
+	 */
+	private void logRequest(String path, HttpResponseStatus status) {
+		System.out.println("Request Path: " + path + " | Status: " + status);
+	}
 }
