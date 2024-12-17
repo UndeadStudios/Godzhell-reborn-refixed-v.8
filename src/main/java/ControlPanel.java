@@ -19,7 +19,6 @@ import javax.swing.*;
 import java.lang.management.ManagementFactory;
 import java.lang.management.MemoryMXBean;
 import java.lang.management.MemoryUsage;
-import javax.swing.Timer;
 
 import javax.swing.Timer;
 

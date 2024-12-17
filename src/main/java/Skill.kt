@@ -31,6 +31,7 @@ enum class Skill(@JvmField val id: Int) {
     }
 
     companion object {
+        @OptIn(ExperimentalStdlibApi::class)
         fun forId(id: Int): Skill? {
             return Arrays.asList(*entries.toTypedArray()).stream().filter { s: Skill? -> s!!.id == id }.findFirst()
                 .orElse(null)

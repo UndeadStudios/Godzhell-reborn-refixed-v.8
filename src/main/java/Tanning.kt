@@ -1,4 +1,5 @@
 object Tanning : CraftingData() {
+    @OptIn(ExperimentalStdlibApi::class)
     @JvmStatic
     fun sendTanningInterface(c: client) {
         c.showInterface(14670)
@@ -20,6 +21,7 @@ object Tanning : CraftingData() {
         }
     }
 
+    @OptIn(ExperimentalStdlibApi::class)
     @JvmStatic
     fun tanHide(player: client, buttonId: Int) {
         for (t in tanningData.entries) {
