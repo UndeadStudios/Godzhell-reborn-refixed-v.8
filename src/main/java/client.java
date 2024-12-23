@@ -10459,7 +10459,10 @@ public class client extends Player implements Runnable {
 
         if (theifTimer == 0) {
             if (playerLevel[17] >= lvlReq) {
-                if(freeSlots() >= 1) {
+                if (freeSlots() == 0) {
+                    sendMessage("You must have at least one free inventory space to do this.");
+                    return;
+                }
                     setAnimation(emote);
                     sendMessage("You steal from the " + stallName);
                     sendMessage(message);
@@ -10475,9 +10478,6 @@ public class client extends Player implements Runnable {
                         server.getGlobalObjects().add(new GlobalObject(objID, objX, objY, heightLevel, face, 10, 120, restoreId));
                         sendMessage("The stall has ran out of stock, restocking now.");
                     }
-                } else {
-                    sendMessage("You don't have enough space in your inventory.");
-                }
             } else if (playerLevel[17] < lvlReq) {
                 sendMessage(
                         "You need a theiving level of " + lvlReq
