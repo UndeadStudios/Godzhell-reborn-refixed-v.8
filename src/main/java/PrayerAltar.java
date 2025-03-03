@@ -116,7 +116,7 @@ public class PrayerAltar {
 
             }
 
-        }, 3+600);
+        }, 3*600);
     }
 
     /**
